@@ -1,0 +1,134 @@
+variabele;omschrijving
+regio; Regioaanduiding
+gm_naam; Gemeentenaam
+recs; Soort regio
+gwb_code; Codering
+ind_wbi; Indelingswijziging wijken en buurten
+Bevolking;Bevolking
+a_inw; Aantal inwoners
+a_man; Mannen
+a_vrouw; Vrouwen
+a_00_14; 0 tot 15 jaar
+a_15_24; 15 tot 25 jaar
+a_25_44; 25 tot 45 jaar
+a_45_64; 45 tot 65 jaar
+a_65_oo; 65 jaar of ouder
+a_ongeh; Ongehuwd
+a_gehuwd; Gehuwd
+a_gesch; Gescheiden
+a_verwed; Verweduwd
+a_nl_all; Nederland
+a_eur_al; Europa (exclusief Nederland)
+a_neu_al; Buiten Europa
+a_geb_nl; Nederland
+a_geb_eu; Europa (exclusief Nederland)
+a_geb_ne; Buiten Europa
+a_gebl_eu; Europa (exclusief Nederland)
+a_gebl_ne; Buiten Europa
+a_geb; Geboorte totaal
+p_geb; Geboorte relatief
+a_ste; Sterfte totaal
+p_ste; Sterfte relatief
+a_hh; Huishoudens totaal
+a_1p_hh; Eenpersoonshuishoudens
+a_hh_z_k; Huishoudens zonder kinderen
+a_hh_m_k; Huishoudens met kinderen
+g_hhgro; Gemiddelde huishoudensgrootte
+bev_dich; Bevolkingsdichtheid
+Wonen;Wonen
+a_woning; Woningvoorraad
+g_wozbag; Gemiddelde WOZ-waarde van woningen
+p_1gezw; Percentage eengezinswoning
+p_mgezw; Percentage meergezinswoning
+p_bewndw; Percentage bewoond
+p_leegsw; Percentage onbewoond
+p_koopw; Koopwoningen
+p_huurw; Huurwoningen totaal
+p_wcorpw; In bezit woningcorporatie
+p_ov_hw; In bezit overige verhuurders
+p_e_o_w; Eigendom onbekend
+p_bjj2k; Bouwjaar voor 2000
+p_bjo2k; Bouwjaar vanaf 2000
+Energie;Energie
+g_ele; Gemiddeld elektriciteitsverbruik totaal
+g_ele_ap; Appartement
+g_ele_tw; Tussenwoning
+g_ele_hw; Hoekwoning
+g_ele_2w; Twee-onder-één-kap-woning
+g_ele_vw; Vrijstaande woning
+g_ele_hu; Huurwoning
+g_ele_ko; Eigen woning
+g_gas; Gemiddeld aardgasverbruik totaal
+g_gas_ap; Appartement
+g_gas_tw; Tussenwoning
+g_gas_hw; Hoekwoning
+g_gas_2w; Twee-onder-één-kap-woning
+g_gas_vw; Vrijstaande woning
+g_gas_hu; Huurwoning
+g_gas_ko; Eigen woning
+p_stadsv; Percentage woningen met stadsverwarming
+Opleidingsniveau;Opleidingsniveau
+a_opl_lg; Aantal laag opgeleiden
+a_opl_md; Aantal middelbaar opgeleiden
+a_opl_hg; Aantal hoog opgeleiden
+Arbeid;Arbeid
+p_arb_pp; Netto arbeidsparticipatie
+p_arb_wn; Percentage werknemers
+p_arb_zs; Percentage zelfstandigen
+Inkomen;Inkomen
+a_inkont; Aantal inkomensontvangers
+g_ink_po; Gemiddeld inkomen per inkomensontvanger
+g_ink_pi; Gemiddeld inkomen per inwoner
+p_ink_li; 40% personen met laagste inkomen
+p_ink_hi; 20% personen met hoogste inkomen
+g_hh_sti;
+p_hh_li; 40% huishoudens met laagste inkomen
+p_hh_hi; 20% huishoudens met hoogste inkomen
+p_hh_lkk; Huishoudens met een laag inkomen
+p_hh_osm; Huish. onder of rond sociaal minimum
+p_hh_110; Huishoudens tot 110% van sociaal minimum
+p_hh_120; Huishoudens tot 120% van sociaal minimum
+m_hh_ver;
+Sociale zekerheid;Sociale zekerheid
+a_soz_wb;" Personen per soort uitkering; Bijstand"
+a_soz_ao;" Personen per soort uitkering; AO"
+a_soz_ww;" Personen per soort uitkering; WW"
+a_soz_ow;" Personen per soort uitkering; AOW"
+Zorg;Zorg
+a_jz_tn; Aantal jongeren met jeugdzorg in natura
+p_jz_tn; Percentage jongeren met jeugdzorg in natura
+a_wmo_t; Aantal Wmo-cliënten
+p_wmo_t; Aantal Wmo-cliënten per 1000 inwoners
+Bedrijfsvestigingen, SBI 2008;Bedrijfsvestigingen, SBI 2008
+a_bedv; Bedrijfsvestigingen totaal
+a_bed_a; A Landbouw, bosbouw en visserij
+a_bed_bf; B-F Nijverheid en energie
+a_bed_gi; G+I Handel en horeca
+a_bed_hj; H+J Vervoer, informatie en communicatie
+a_bed_kl; K-L Financiële diensten, onroerend goed
+a_bed_mn; M-N Zakelijke dienstverlening
+a_bed_oq; O-Q Overheid, onderwijs en zorg
+a_bed_ru; R-U Cultuur, recreatie, overige diensten
+Motorvoertuigen;Motorvoertuigen
+a_pau; Personenauto's totaal
+a_bst_b;" Personenauto's; brandstof benzine"
+a_bst_nb;" Personenauto's; overige brandstof"
+g_pau_hh; Personenauto's per huishouden
+g_pau_km; Personenauto's naar oppervlakte
+a_m2w; Motorfietsen
+Voorzieningen;Voorzieningen
+g_afs_hp;" Afstand tot huisartsenpraktijk; afstand"
+g_afs_gs; Afstand tot grote supermarkt
+g_afs_kv; Afstand tot kinderdagverblijf
+g_afs_sc; Afstand tot school
+g_3km_sc; Scholen binnen 3 km
+Oppervlakte;Oppervlakte
+a_opp_ha; Oppervlakte totaal
+a_lan_ha; Oppervlakte land
+a_wat_ha; Oppervlakte water
+Postcode;Postcode
+pst_mvp; Meest voorkomende postcode
+pst_dekp; Dekkingspercentage
+Stedelijkheid;Stedelijkheid
+ste_mvs; Mate van stedelijkheid
+ste_oad; Omgevingsadressendichtheid

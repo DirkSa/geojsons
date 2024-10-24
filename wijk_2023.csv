@@ -1,0 +1,3435 @@
+WK_CODE	WK_NAAM
+WK001400	Centrum
+WK001401	Oud-Zuid
+WK001402	Oud-West
+WK001403	Oud-Noord
+WK001404	Oosterparkwijk
+WK001405	Zuidoost
+WK001406	Helpman e.o.
+WK001407	Zuidwest
+WK001408	Hoogkerk e.o.
+WK001409	Nieuw-West
+WK001410	Noordwest
+WK001411	Noordoost
+WK001412	Noorddijk e.o.
+WK001413	Meerdorpen
+WK001414	Meerstad e.o.
+WK001415	Ten Boer e.o.
+WK001416	Ten Post e.o.
+WK001417	Haren-West e.o.
+WK001418	Haren-Oost e.o.
+WK001419	Glimmen-Onnen-Noordlaren
+WK003401	Centrum Almere Haven
+WK003402	De Werven
+WK003403	De Hoven
+WK003404	De Meenten
+WK003405	De Grienden
+WK003406	De Marken
+WK003407	De Gouwen
+WK003408	De Wierden
+WK003409	De Velden
+WK003410	Overgooi
+WK003411	De Laren
+WK003414	De Steiger
+WK003415	Stichtsekant
+WK003416	Overig Almere Haven
+WK003417	Centrum Almere Stad
+WK003418	Filmwijk
+WK003419	Danswijk
+WK003420	Parkwijk
+WK003421	Verzetswijk
+WK003422	Waterwijk
+WK003423	Tussen de Vaarten Noord
+WK003424	Tussen de Vaarten Zuid
+WK003425	Staatsliedenwijk
+WK003426	Kruidenwijk
+WK003427	Stedenwijk
+WK003428	Muziekwijk Noord
+WK003429	Muziekwijk Zuid
+WK003430	Literatuurwijk
+WK003431	Noorderplassen
+WK003432	Hortus
+WK003434	Randstad
+WK003435	Markerkant
+WK003436	Hollandsekant
+WK003437	Gooisekant
+WK003438	Veluwsekant
+WK003439	Sallandsekant
+WK003440	Overig Almere Stad
+WK003441	Centrum Almere Buiten
+WK003442	Oostvaardersbuurt
+WK003443	Seizoenenbuurt
+WK003444	Molenbuurt
+WK003445	Bouwmeesterbuurt
+WK003446	Landgoederenbuurt
+WK003447	Faunabuurt
+WK003448	Bloemenbuurt
+WK003449	Regenboogbuurt
+WK003450	Indischebuurt
+WK003451	Eilandenbuurt
+WK003452	Stripheldenbuurt
+WK003453	Sieradenbuurt
+WK003456	Poldervlak
+WK003457	De Vaart
+WK003458	Buitenvaart
+WK003459	Overig Almere Buiten
+WK003460	Europakwartier Oost
+WK003461	Europakwartier West
+WK003462	Columbuskwartier
+WK003463	Homeruskwartier
+WK003464	Olympiakwartier Oost
+WK003465	Olympiakwartier West
+WK003466	Duin
+WK003471	Hogekant
+WK003472	Middenkant
+WK003473	Lagekant
+WK003474	Overig Almere Poort
+WK003475	Vogelhorst
+WK003476	Nobelhorst
+WK003477	Oosterwold
+WK003479	Twentsekant
+WK003485	Overig Almere Hout
+WK003496	Overig Almere Pampus
+WK003499	Groot water
+WK003701	Stadskanaal
+WK003702	Musselkanaal
+WK003703	Onstwedde
+WK003704	Mussel
+WK003705	Alteveer
+WK004700	Wijk 00 Veendam-kern
+WK004701	Wijk 01 Veendam-buitengebied
+WK004702	Wijk 02 Wildervank
+WK005000	Wijk 00
+WK005099	Groot water
+WK005900	Wijk 00 Noord
+WK005901	Wijk 01 Centrum
+WK005902	Wijk 02 Zuid
+WK006000	Wijk 00
+WK006099	Groot water
+WK007200	Wijk 00 Harlingen
+WK007201	Wijk 01 Midlum
+WK007202	Wijk 02 Wijnaldum
+WK007299	Groot water
+WK007401	Wijk 01 Heerenveen
+WK007402	Wijk 02 Noord-Heerenveen
+WK007403	Wijk 03 Hoornsterzwaag
+WK007404	Wijk 04 Jubbega
+WK007406	Wijk 06 Oranjewoud
+WK007407	Skarsterlân
+WK007409	Boarnsterhim
+WK008010	Binnenstad
+WK008011	Potmargezone
+WK008020	Oud-Oost
+WK008030	Sonnenborgh e.o.
+WK008031	Westeinde e.o.
+WK008032	Vossepark & Helicon
+WK008040	Huizum-West
+WK008041	Nijlân & De Zwette
+WK008050	Heechterp & Schieringen
+WK008051	Camminghaburen e.o.
+WK008060	Bilgaard & Havankpark e.o.
+WK008061	Vrijheidswijk
+WK008062	Dokkumer Ie e.o.
+WK008063	Stiens e.o.
+WK008070	Aldlân & De Hemrik
+WK008071	Goutum
+WK008072	Hempens/Teerns & Zuiderburen
+WK008073	De Zuidlanden
+WK008074	Middelsee
+WK008080	Dorpen Zuid-Oost
+WK008081	Dorpen Zuid-West
+WK008082	Grou e.o.
+WK008501	Appelscha
+WK008502	Donkerbroek
+WK008503	Elsloo
+WK008504	Fochteloo
+WK008505	Haule
+WK008506	Haulerwijk
+WK008507	Langedijke
+WK008508	Makkinga
+WK008509	Nijeberkoop
+WK008510	Oldeberkoop
+WK008511	Oosterwolde
+WK008512	Ravenswoud
+WK008513	Waskemeer
+WK008601	Bakkeveen
+WK008602	Beetsterzwaag
+WK008604	Frieschepalen
+WK008605	Gorredijk
+WK008606	Hemrik
+WK008607	Jonkerslân
+WK008608	Langezwaag
+WK008609	Lippenhuizen
+WK008610	Luxwoude
+WK008611	Nij Beets
+WK008613	Siegerswoude
+WK008614	Terwispel
+WK008615	Tijnje
+WK008616	Ureterp
+WK008617	Wijnjewoude
+WK008800	Wijk 00
+WK008899	Groot water
+WK009000	Wijk 00 Drachten
+WK009001	Wijk 01 Overig Smallingerland
+WK009300	Wijk 00 West-Terschelling
+WK009301	Wijk 01 Midsland
+WK009302	Wijk 02 Formerum
+WK009303	Wijk 03 Lies
+WK009304	Wijk 04 Hoorn
+WK009305	Wijk 05 Oosterend
+WK009399	Groot water
+WK009600	Wijk 00
+WK009699	Groot water
+WK009800	Wolvega
+WK009801	De Wolden-Ter Idzard
+WK009802	De Lamers
+WK009803	Lange-Nije-Munk
+WK009804	Scherpenzeel-Spanga
+WK009805	Oldetrijne-Sonnega
+WK009806	Blesdijke
+WK009807	De Blesse-Peperga
+WK009808	Steggerda
+WK009809	De Hoeve-Vinkega
+WK009810	Noordwolde
+WK009811	Oosterstreek
+WK009812	Zandhuizen
+WK009813	Boijl
+WK009814	Nijeholtpade
+WK009815	Oldeholtpade
+WK010600	Centrum
+WK010601	Lariks
+WK010602	Noorderpark
+WK010603	Assen-Oost
+WK010604	Pittelo
+WK010605	Assen-West
+WK010606	Peelo
+WK010607	Marsdijk
+WK010608	Kloosterveen
+WK010699	Buitengebied
+WK010910	Wijk 10 Coevorden
+WK010911	Wijk 11 Steenwijksmoer
+WK010912	Wijk 12 Nieuwe Krim
+WK010913	Wijk 13 Weijerswold
+WK010914	Wijk 14 Vlieghuis en Padhuis
+WK010920	Wijk 20 Dalen
+WK010930	Wijk 30 Oosterhesselen
+WK010940	Wijk 40 Sleen
+WK010950	Wijk 50 Zweeloo
+WK011401	Wijk 01 Nieuw-Weerdinge
+WK011402	Wijk 02 Roswinkel
+WK011403	Wijk 03 Emmer-Compascuum
+WK011404	Wijk 04 Barger-Compascuum
+WK011405	Wijk 05 Nieuw-Dordrecht
+WK011406	Wijk 06 Nieuw-Amsterdam
+WK011407	Wijk 07 Erica
+WK011408	Wijk 08 Klazienaveen
+WK011409	Wijk 09 Zwartemeer
+WK011410	Wijk 10 Schoonebeek
+WK011413	Wijk 13 Veenoord
+WK011421	Wijk 21 Nieuw-Schoonebeek
+WK011432	Wijk 32 Weiteveen
+WK011440	Wijk 40 Emmen-Centrum
+WK011441	Wijk 41 Emmen-Centrum Oost
+WK011442	Wijk 42 Emmermeer
+WK011443	Wijk 43 Angelslo
+WK011444	Wijk 44 Emmerhout
+WK011445	Wijk 45 Emmerschans
+WK011446	Wijk 46 Bargeres
+WK011447	Wijk 47 Rietlanden
+WK011448	Wijk 48 Parc Sandur
+WK011449	Wijk 49 Delftlanden
+WK011450	Wijk 50 Barger-Oosterveld
+WK011451	Wijk 51 Kern Emmen Noord
+WK011452	Wijk 52 Kern Emmen Zuid
+WK011453	Wijk 53 Kern Emmen Industrieterreinen
+WK011850	Wijk 50 Hoogeveen
+WK011851	Wijk 51 De Weide
+WK011852	Wijke 52 Fluitenberg
+WK011853	Wijk 53 Elim
+WK011854	Wijk 54 Hollandscheveld
+WK011855	Wijk 55 Noordscheschut
+WK011856	Wijk 56 Nieuwlande
+WK011857	Wijk 57 Nieuweroord
+WK011858	Wijk 58 Tiendeveen
+WK011859	Wijk 59 Stuifzand
+WK011860	Wijk 60 Pesse
+WK011861	Wijk 61 Zuideropgaande Nieuw Moscou
+WK011862	Wijk 62 Industrie- en verspreide gebieden
+WK011900	Centrum
+WK011901	Watertoren
+WK011902	Haveltermade
+WK011903	Koedijkslanden
+WK011904	Berggierslanden
+WK011905	Ezinge
+WK011906	Oosterboer
+WK011907	Nieuwveenselanden
+WK011908	Blankenstein
+WK011909	Industrieterrein Noord
+WK011910	Industrie Oevers
+WK011911	Verspreid gebied Meppel
+WK011912	Nijeveen
+WK011913	Rogat
+WK014110	Binnenstad
+WK014111	De Riet
+WK014112	Noorderkwartier
+WK014113	Sluitersveld
+WK014114	Wierdense Hoek
+WK014115	Nieuwstraat-Kwartier
+WK014116	Ossenkoppelerhoek
+WK014117	Hofkamp
+WK014118	Schelfhorst
+WK014119	Windmolenbroek
+WK014120	Aadorp
+WK014121	Bornerbroek
+WK014700	Wijk 00 Borne
+WK014701	Wijk 01 Buitengebied Borne
+WK014801	Dalfsen
+WK014802	Nieuwleusen
+WK014803	Lemelerveld
+WK015001	Binnenstad
+WK015002	De Hoven
+WK015003	Zandweerd
+WK015004	Voorstad
+WK015005	Borgele en Platvoet
+WK015006	Keizerslanden
+WK015007	Rivierenwijk en Bergweide
+WK015008	Colmschate-Noord
+WK015009	Colmschate-Vijfhoek
+WK015010	Colmschate-Zuid
+WK015011	Diepenveen
+WK015012	Schalkhaar
+WK015013	Okkenbroek
+WK015014	Lettele
+WK015015	Bathmen
+WK015300	Wijk 00 Binnensingelgebied
+WK015301	Wijk 01 Hogeland - Velve
+WK015302	Wijk 02 Boswinkel - Stadsveld
+WK015303	Wijk 03 Twekkelerveld - T.H.T.
+WK015304	Wijk 04 Enschede-Noord
+WK015305	Wijk 05 Ribbelt - Stokhorst
+WK015306	Wijk 06 Enschede-Zuid
+WK015307	Wijk 07 Bedrijfsterreinen Enschede-West
+WK015308	Wijk 08 Glanerbrug en omgeving
+WK015309	Wijk 09 Landelijk gebied en kernen
+WK015800	Wijk 00 Haaksbergen (dorp)
+WK015801	Wijk 01 Haaksbergen (buitengebied)
+WK015802	Wijk 02 Sint Isidorushoeve
+WK015803	Wijk 03 Buurse
+WK015804	Wijk 04 Rietmolen
+WK015805	Wijk 05 Hengevelde
+WK015806	Wijk 06 Beckum
+WK015809	Wijk 09 Haaksbergen-kern
+WK016001	Ane
+WK016002	Anerveen
+WK016003	Anevelde
+WK016004	Balkbrug
+WK016005	Bergentheim
+WK016006	Brucht
+WK016007	Collendoorn
+WK016008	De Krim
+WK016009	Dedemsvaart
+WK016010	Den Velde
+WK016011	Diffelen
+WK016012	Gramsbergen
+WK016013	Heemserveen
+WK016014	Holtheme
+WK016015	Holthone
+WK016016	Hoogenweg
+WK016017	Kloosterhaar
+WK016018	Loozen
+WK016019	Lutten
+WK016020	Marienberg
+WK016021	Radewijk
+WK016022	Rheeze
+WK016023	Rheezerveen
+WK016024	Schuinesloot
+WK016025	Sibculo
+WK016026	Slagharen
+WK016027	Venebrugge
+WK016028	Hardenberg
+WK016029	Bruchterveld
+WK016301	Wijk 01 Hellendoorn
+WK016302	Wijk 02 Nijverdal Noord
+WK016303	Wijk 03 Nijverdal West
+WK016304	Wijk 04 Nijverdal Oost
+WK016305	Wijk 05 Buitengebied
+WK016306	Wijk 06 Kruidenwijk
+WK016307	Wijk 07 Haarle
+WK016308	Wijk 08 Daarle
+WK016309	Wijk 09 Daarlerveen
+WK016400	Wijk 00 Binnenstad
+WK016401	Wijk 01 Hengelose Es
+WK016402	Wijk 02 Noord
+WK016403	Wijk 03 Hasseler Es
+WK016404	Wijk 04 Groot Driene
+WK016405	Wijk 05 Berflo Es
+WK016406	Wijk 06 Wilderinkshoek
+WK016407	Wijk 07 Woolde
+WK016408	Wijk 08 Slangenbeek
+WK016409	Wijk 09 Buitengebied
+WK016600	Kampen
+WK016602	Reeve
+WK016603	IJsselmuiden
+WK016604	Zalk
+WK016605	Wilsum
+WK016606	Grafhorst
+WK016607	Kamperveen
+WK016608	s-Heerenbroek
+WK016609	Mastenbroek
+WK016699	Groot water
+WK016800	Wijk 00 Losser
+WK016801	Wijk 01 Glane
+WK016802	Wijk 02 Overdinkel
+WK016803	Wijk 03 De Lutte
+WK016804	Wijk 04 Beuningen
+WK017101	Wijk 01 Emmeloord
+WK017102	Wijk 02 Bant
+WK017103	Wijk 03 Luttelgeest
+WK017104	Wijk 04 Marknesse
+WK017105	Wijk 05 Kraggenburg
+WK017106	Wijk 06 Ens
+WK017107	Wijk 07 Nagele
+WK017108	Wijk 08 Tollebeek
+WK017109	Wijk 09 Espel
+WK017110	Wijk 10 Creil
+WK017111	Wijk 11 Rutten
+WK017112	Wijk 12 Schokland
+WK017199	Groot water
+WK017301	Wijk 01 Binnenstad
+WK017302	Wijk 02 Het Inslag-De Kleies
+WK017303	Wijk 03 Glinde-Hooiland
+WK017304	Wijk 04 De Meijbree
+WK017305	Wijk 05 Haerbroek-Scholtenhoek
+WK017306	Wijk 06 Zuid-Berghuizen
+WK017307	Wijk 07 Hanzepoort
+WK017308	Wijk 08 Eekte-Hazewinkel
+WK017309	Wijk 09 Jufferbeek
+WK017310	Wijk 10 Het Hulsbeek
+WK017311	Wijk 11 De Thij
+WK017312	Wijk 12 De Graven Es
+WK017313	Wijk 13 De Essen
+WK017314	Wijk 14 Bekspring
+WK017501	Ommen
+WK017502	Arrien
+WK017503	Beerze
+WK017504	Beerzerveld
+WK017505	Dalmsholte
+WK017506	Giethmen
+WK017507	Lemele
+WK017508	Stegeren
+WK017509	Vilsteren
+WK017510	Vinkenbuurt
+WK017511	Witharen
+WK017701	Raalte
+WK017702	Luttenberg
+WK017703	Mariënheem
+WK017704	Nieuw Heeten
+WK017705	Heeten
+WK017706	Broekland
+WK017707	Heino
+WK017708	Lierderholthuis
+WK017709	Laag Zuthem
+WK018000	Wijk 00 Staphorst (kern)
+WK018001	Wijk 01 Rouveen (kern)
+WK018002	Wijk 02 Rouveen (buitengebied)
+WK018003	Wijk 03 Staphorst (buitengebied)
+WK018004	Wijk 04 IJhorst
+WK018005	Wijk 05 Punthorst
+WK018006	Wijk 06 Lankhorst
+WK018007	Wijk 07 Klooster
+WK018300	Wijk 00 Tubbergen
+WK018301	Wijk 01 Albergen
+WK018302	Wijk 02 Harbrinkhoek
+WK018303	Wijk 03 Geesteren
+WK018304	Wijk 04 Langeveen
+WK018305	Wijk 05 Vasse
+WK018306	Wijk 06 Reutum
+WK018307	Wijk 07 Fleringen
+WK018400	Wijk 00 Urk
+WK018499	Groot water
+WK018900	Wijk 00 Wierden (kern)
+WK018901	Wijk 01 Landelijk gebied Wierden
+WK018902	Wijk 02 Hooge-Hexel
+WK018903	Wijk 03 Enter (kern)
+WK018904	Wijk 04 Landelijk gebied Enter
+WK018905	Wijk 05 Rectum - Notter - Zuna
+WK019310	Wijk 10 Binnenstad
+WK019311	Wijk 11 Diezerpoort
+WK019312	Wijk 12 Wipstrik
+WK019313	Wijk 13 Assendorp
+WK019314	Wijk 14 Kamperpoort-Veerallee
+WK019320	Wijk 20 Poort van Zwolle
+WK019321	Wijk 21 Westenholte
+WK019322	Wijk 22 Stadshagen
+WK019330	Wijk 30 Holtenbroek
+WK019331	Wijk 31 Aa-landen
+WK019332	Wijk 32 Vechtlanden
+WK019340	Wijk 40 Berkum
+WK019341	Wijk 41 Marsweteringlanden
+WK019350	Wijk 50 Schelle
+WK019351	Wijk 51 Ittersum
+WK019352	Wijk 52 Soestweteringlanden
+WK019701	Wijk 01 Buitengebied Aalten
+WK019702	Wijk 02 Bredevoort
+WK019703	Wijk 03 Aalten Kern
+WK019704	Wijk 04 Dinxperlo
+WK020001	Centrum
+WK020002	West
+WK020003	Zuidwest
+WK020004	Zuid
+WK020005	Zuidoost
+WK020006	Oost
+WK020007	Noordoost
+WK020008	Noord
+WK020010	Uddel en omgeving
+WK020011	Hoog Soeren en Radio Kootwijk
+WK020012	Hoenderloo en omgeving
+WK020013	Loenen en omgeving
+WK020014	Beekbergen en omgeving
+WK020015	Lieren en omgeving
+WK020016	Klarenbeek en omgeving
+WK020017	Wenum Wiesel Beemte
+WK020201	Centrum
+WK020202	Spijkerkwartier
+WK020203	Arnhemse Broek
+WK020204	Presikhaaf-West
+WK020205	Presikhaaf-Oost
+WK020206	St. Marten/Sonsbeek
+WK020207	Klarendal
+WK020208	Velperweg e.o.
+WK020209	Alteveer/Cranevelt
+WK020210	Geitenkamp
+WK020211	Monnikenhuizen
+WK020212	Burgemeesterswijk/Hoogkamp
+WK020213	Schaarsbergen
+WK020214	Heijenoord/Lombok
+WK020215	Klingelbeek e.o.
+WK020216	Malburgen-West
+WK020217	Malburgen-Oost (Noord)
+WK020218	Malburgen-Oost (Zuid)
+WK020219	Vredenburg/Kronenburg
+WK020220	Elden
+WK020221	Elderveld
+WK020222	De Laar
+WK020223	Rijkerswoerd
+WK020224	Schuytgraaf
+WK020354	Wijk 54 Barneveld
+WK020355	Wijk 55 Voorthuizen
+WK020356	Wijk 56 Kootwijkerbroek
+WK020357	Wijk 57 Garderen
+WK020358	Wijk 58 Terschuur
+WK020359	Wijk 59 Stroe
+WK020360	Wijk 60 Zwartebroek
+WK020361	Wijk 61 De Glind
+WK020362	Wijk 62 Kootwijk
+WK020363	Wijk 63 Achterveld
+WK020901	Beuningen
+WK020902	Ewijk
+WK020903	Weurt
+WK020904	Winssen
+WK021301	Wijk 01 Empe
+WK021302	Wijk 02 Tonden
+WK021303	Wijk 03 Brummen
+WK021304	Wijk 04 Leuvenheim
+WK021305	Wijk 05 Hall
+WK021306	Wijk 06 Eerbeek
+WK021400	Wijk 00 Buren
+WK021401	Wijk 01 Beusichem
+WK021402	Wijk 02 Zoelen
+WK021403	Wijk 03 Lienden
+WK021404	Wijk 04 Ingen
+WK021405	Wijk 05 Maurik
+WK021406	Wijk 06 Ravenswaaij
+WK021600	Culemborg Oost
+WK021601	Culemborg West
+WK022101	Wijk 01
+WK022201	Wijk 01 Doetinchem Centrum
+WK022202	Wijk 02
+WK022203	Wijk 03
+WK022204	Wijk 04
+WK022205	Wijk 05
+WK022206	Wijk 06
+WK022207	Wijk 07
+WK022208	Wijk 08
+WK022209	Wijk 09
+WK022211	Wijk 11 Buitengebied Doetinchem
+WK022231	Wijk 31 Wehl
+WK022500	Druten
+WK022501	Puiflijk
+WK022502	Afferden
+WK022503	Deest
+WK022504	Horssen
+WK022601	Wijk 01 Bedrijventerrein
+WK022602	Wijk 02 Buitengebied
+WK022603	Wijk 03 Duiven-Noord
+WK022604	Wijk 04 Duiven-Zuid
+WK022605	Wijk 05 Groessen
+WK022606	Wijk 06 Loo
+WK022801	Ede-Oost
+WK022802	Ede-West
+WK022803	Ede-Veldhuizen
+WK022804	Kernhem
+WK022805	Veluwse Poort
+WK022810	Ede-Zuid
+WK022811	Maandereng
+WK022812	Rietkampen
+WK022813	Bedrijventerrein
+WK022820	Buitengebied Ede-Stad
+WK022830	Bennekom
+WK022840	Lunteren
+WK022850	Ederveen
+WK022860	De Klomp
+WK022870	Harskamp
+WK022880	Wekerom
+WK022890	Otterlo
+WK023001	Wijk 01 Elburg
+WK023002	Wijk 02 't Harde
+WK023003	Wijk 03 Doornspijk
+WK023099	Groot water
+WK023200	Wijk 00 Epe
+WK023201	Wijk 01 Emst
+WK023202	Wijk 02 Vaassen
+WK023203	Wijk 03 Oene
+WK023300	Schil rondom het centrum
+WK023301	Centrum Ermelo
+WK023302	Tonsel en Veldzicht
+WK023303	Buitengebied west
+WK023304	Buitengebied midden
+WK023305	Buitengebied oost
+WK023399	Groot water
+WK024301	Binnenstad
+WK024302	Waterfront
+WK024303	Zeebuurt
+WK024304	Friesegracht
+WK024305	Stadsdennen
+WK024306	De Sypel
+WK024307	Stationsomgeving
+WK024308	Stadsweiden
+WK024309	Slingerbos
+WK024310	Tweelingstad
+WK024311	Frankrijk
+WK024312	Drielanden
+WK024313	Industrieterrein Lorentz
+WK024314	Buitengebied Harderwijk
+WK024315	Hierden
+WK024399	Groot water
+WK024400	Wijk 00 Hattem
+WK024401	Wijk 01 Polder Hattem en Molecaten
+WK024600	Wijk 00 Heerde
+WK024601	Wijk 01 Wapenveld
+WK025200	Wijk 00 Heumen
+WK025201	Wijk 01 Overasselt
+WK026200	Wijk 00 Lochem kern
+WK026201	Wijk 01 Lochem buitengebied
+WK026202	Wijk 02 Laren
+WK026203	Wijk 03 Barchem
+WK026204	Wijk 04 Gorssel
+WK026205	Wijk 01 Almen-Harfsen
+WK026300	Wijk 00 Kerkdriel
+WK026301	Wijk 01 Ammerzoden
+WK026302	Wijk 02 Hedel
+WK026303	Wijk 03 Heerewaarden
+WK026304	Wijk 04 Rossum
+WK026701	Nijkerk-stad
+WK026702	Appel, Driedorp, Kruishaar, Prinsenkamp en Slichtenhorst
+WK026703	Nijkerkerveen en Holkerveen
+WK026704	Arkemheen, Achterhoek, De Veenhuis
+WK026705	Hoevelaken
+WK026799	Groot water
+WK026801	Nijmegen-Centrum
+WK026802	Nijmegen-Oost
+WK026803	Nijmegen-Oud-West
+WK026804	Nijmegen-Nieuw-West
+WK026805	Nijmegen-Midden
+WK026806	Nijmegen-Zuid
+WK026807	Dukenburg
+WK026808	Lindenholt
+WK026809	Nijmegen-Noord
+WK026900	Wijk 00 Oldebroek
+WK026901	Wijk 01 Wezep
+WK026902	Wijk 02 Oosterwolde
+WK026999	Groot water
+WK027300	Wijk 00 Putten
+WK027301	Wijk 01 Bosgebied en Krachtighuizen
+WK027399	Groot water
+WK027401	Renkum Zuid
+WK027402	Renkum Noord
+WK027403	Heelsum ten westen van de rijksweg
+WK027404	Heelsum ten oosten van de rijksweg
+WK027405	Wolfheze ten zuiden van het spoor
+WK027406	Wolfheze ten noorden van het spoor
+WK027407	Buitengebied Doorwerth
+WK027408	Bebouwde kom Doorwerth
+WK027409	Heveadorp
+WK027410	Oosterbeek West
+WK027411	Oosterbeek Zuidoost
+WK027412	Oosterbeek Noordoost
+WK027500	Wijk 00 Dieren
+WK027501	Wijk 01 Rheden
+WK027502	Wijk 02 Velp
+WK027700	Wijk 00
+WK027900	Wijk 00
+WK028100	Tiel kern
+WK028101	Tiel-Noord
+WK028102	Wadenoijen en Kapel Avezaath
+WK028103	Tiel-Zuid
+WK028500	Wijk 00 Voorst
+WK028501	Wijk 01 Twello-Nijbroek
+WK028502	Wijk 02 Klarenbeek-Teuge
+WK028503	Wijk 03 Wilp
+WK028901	Noordwest
+WK028902	Wageningen Universiteit
+WK028903	De Weiden en Boomgaarden
+WK028904	De Horsten
+WK028905	Kortenoord
+WK028906	De Buurt
+WK028907	Boven- en Benedenbuurt
+WK028908	Nude
+WK028909	Centrum
+WK028910	Veluvia-Hamelakkers
+WK028911	Wageningen-Hoog
+WK028912	Buitengebied
+WK029300	Wijk 00
+WK029400	Wijk 00 Stad
+WK029401	Wijk 01 Land
+WK029600	Wijk 00 Wijchen buitengebied
+WK029601	Wijk 01 Wijchen kern
+WK029602	Wijk 02 Balgoij
+WK029603	Wijk 03 Batenburg
+WK029604	Wijk 04 Bergharen
+WK029605	Wijk 05 Hernen
+WK029606	Wijk 06 Leur
+WK029607	Wijk 07 Niftrik
+WK029608	Wijk 08 Alverna
+WK029700	Wijk 00 Zaltbommel
+WK029701	Wijk 01 Brakel
+WK029702	Wijk 02 Kerkwijk
+WK029703	Wijk 03 Nederhemert
+WK029900	Zevenaar
+WK029901	Babberich
+WK029902	Angerlo
+WK029903	Giesbeek
+WK029904	Lathum
+WK029905	Rijnstrangen
+WK029906	Pannerden
+WK029907	Aerdt
+WK029908	Herwen
+WK029909	Lobith
+WK029910	Tolkamer
+WK029911	Spijk
+WK030100	Wijk 00 Centrum - De Hoven
+WK030101	Wijk 01 Waterkwartier
+WK030102	Wijk 02 Noordveen
+WK030103	Wijk 03 Zuidwijken
+WK030104	Wijk 04 Leesten
+WK030105	Wijk 05 Warnsveld
+WK030200	Wijk 00 Nunspeet
+WK030201	Wijk 01 Elspeet-Vierhouten
+WK030299	Groot water
+WK030301	Wijk 01 Dronten west
+WK030302	Wijk 02 Dronten Noord
+WK030303	Wijk 03 Dronten Midden
+WK030304	Wijk 04 Dronten Zuid
+WK030305	Wijk 05 Buitengebied Dronten
+WK030306	Wijk 06 Biddinghuizen
+WK030307	Wijk 07 Swifterbant
+WK030399	Groot water
+WK030701	Stadskern
+WK030702	Nederberg
+WK030703	Soesterkwartier
+WK030704	Eemkwartier
+WK030705	Isselt
+WK030706	De Koppel
+WK030707	Kruiskamp
+WK030708	Schothorst-Zuid
+WK030709	Schothorst-Noord
+WK030710	Liendert
+WK030711	Rustenburg
+WK030712	Buitengebied-Oost
+WK030713	Schuilenburg
+WK030714	Randenbroek
+WK030715	Vermeerkwartier
+WK030716	Leusderkwartier
+WK030717	De Berg-Zuid
+WK030718	De Berg-Noord
+WK030719	Hoogland
+WK030720	Zielhorst
+WK030721	Kattenbroek
+WK030722	Calveen
+WK030724	Nieuwland
+WK030725	De Hoef
+WK030726	Hooglanderveen
+WK030727	Hoogland-West
+WK030728	Vathorst-De Velden
+WK030729	Vathorst-Centrum
+WK030730	Vathorst-De Bron
+WK030731	Vathorst-De Laak
+WK030732	Vathorst-Bovenduist
+WK030733	Bedrijventerrein Vathorst
+WK030734	Bosgebied
+WK030800	Wijk 00 Baarn
+WK030801	Wijk 01 Baarn-Noord, Eemdal en Eemland
+WK030802	Wijk 02 P.H.W.park
+WK030804	Wijk 04 Buitengebied
+WK030805	Wijk 05 Lage Vuursche
+WK031001	Westbroek
+WK031002	Hollandsche Rading
+WK031003	Maartensdijk
+WK031004	Groenekan
+WK031005	De Leijen
+WK031006	Bilthoven Noord
+WK031007	Bilthoven Zuid Oost
+WK031008	Bilthoven Zuid West
+WK031009	De Bilt West
+WK031010	De Bilt Oost
+WK031200	Wijk 00 Bunnik
+WK031201	Wijk 01 Odijk
+WK031202	Wijk 02 Werkhoven
+WK031300	Wijk 00
+WK031399	Groot water
+WK031702	Eemnes
+WK031799	Groot water
+WK032110	Houten Noord-West
+WK032111	Houten Noord-Oost
+WK032112	Houten Zuid-West
+WK032113	Houten Zuid-Oost
+WK032120	Houten Buitengebied
+WK032130	't Goy
+WK032131	't Goy Buitengebied
+WK032140	Tull en 't Waal
+WK032141	Tull en 't Waal Buitengebied
+WK032150	Schalkwijk
+WK032151	Schalkwijk Buitengebied
+WK032700	Wijk 00 Leusden-Centrum Oost
+WK032701	Wijk 01 Leusden-Centrum West
+WK032702	Wijk 02 Leusden-Zuid
+WK032703	Wijk 03 Achterveld
+WK032704	Wijk 04 Stoutenburg
+WK032705	Wijk 05 't Ruige Veld
+WK033100	Wijk 00 Lopik, Benschop en Polsbroek
+WK033500	Wijk 00
+WK033501	Wijk 01 Linschoten
+WK033502	Wijk 02 Willeskop
+WK033900	Wijk 00
+WK034000	Wijk 00 Rhenen
+WK034001	Wijk 01 Rhenen Oost
+WK034002	Wijk 02 Rhenen West
+WK034003	Wijk 03 Rhenen Noord
+WK034004	Wijk 04 Grebbeberg
+WK034005	Wijk 05 Randzone
+WK034006	Wijk 06 Binnenveld
+WK034007	Wijk 07 Achterberg
+WK034008	Wijk 08 Uiterwaarden Rhenen
+WK034009	Wijk 09 Remmerden
+WK034010	Wijk 10 Heuvelrug Rhenen
+WK034011	Wijk 11 Heuvelrug Elst
+WK034012	Wijk 12 Uiterwaarden Elst
+WK034013	Wijk 13 Elst
+WK034201	Wijk 01 't Hart-Soestdijk
+WK034202	Wijk 02 Klaarwater
+WK034203	Wijk 03 Boerenstreek
+WK034204	Wijk 04 de Eng-Soest-Midden
+WK034205	Wijk 05 Smitsveen
+WK034206	Wijk 06 Overhees
+WK034207	Wijk 07 Soest-Zuid
+WK034208	Wijk 08 Soesterberg
+WK034401	Wijk 01 West
+WK034402	Wijk 02 Noordwest
+WK034403	Wijk 03 Overvecht
+WK034404	Wijk 04 Noordoost
+WK034405	Wijk 05 Oost
+WK034406	Wijk 06 Binnenstad
+WK034407	Wijk 07 Zuid
+WK034408	Wijk 08 Zuidwest
+WK034409	Wijk 09 Leidsche Rijn
+WK034410	Wijk 10 Vleuten-De Meern
+WK034500	Centrum
+WK034501	Noordoost
+WK034502	Zuidoost
+WK034503	Zuidwest
+WK034504	Noordwest
+WK034505	West
+WK035100	Wijk 00 Woudenberg
+WK035200	Wijk 00 Wijk bij Duurstede
+WK035201	Wijk 01 Landelijk gebied
+WK035202	Wijk 02 Cothen
+WK035203	Wijk 03 Langbroek
+WK035300	Wijk 00 IJsselstein
+WK035501	Zeist Centrum
+WK035502	Zeist-Noord
+WK035503	Zeist-West
+WK035504	Zeist-Oost
+WK035505	Den Dolder e.o.
+WK035601	Jutphaas Wijkersloot
+WK035602	Zuilenstein
+WK035603	Batau Zuid
+WK035604	Batau Noord
+WK035605	Doorslag
+WK035606	Huis de Geer
+WK035607	Blokhoeve
+WK035608	Galecop
+WK035610	Fokkesteeg
+WK035611	Hoogzandveld
+WK035612	Lekboulevard
+WK035613	Vreeswijk
+WK035614	Merwestein
+WK035615	Park Oudegein
+WK035616	Zandveld
+WK035618	Het Klooster
+WK035620	Laagraven
+WK035621	Plettenburg
+WK035622	De Wiers
+WK035623	Hoge Landen
+WK035624	Stadscentrum
+WK035625	Rijnhuizen
+WK035800	Wijk 00 Aalsmeer
+WK035801	Wijk 01 Kudelstraat en Kalslagen
+WK035802	Wijk 02 Oosteinde
+WK036101	Zuid
+WK036102	Oudorp
+WK036103	Overdie
+WK036104	West
+WK036105	Huiswaard
+WK036106	De Mare
+WK036107	Daalmeer/Koedijk
+WK036108	Centrum
+WK036109	Schermer
+WK036110	Graft-De Rijp
+WK036111	Vroonermeer
+WK036201	Randwijck
+WK036202	Patrimonium
+WK036203	Elsrijk
+WK036204	Stadshart
+WK036205	Uilenstede, Kronenburg
+WK036206	Bankras, Kostverloren
+WK036207	Buitengebied Noord
+WK036208	Keizer Karelpark
+WK036209	Groenelaan
+WK036210	Waardhuizen, Middenhoven
+WK036211	Bovenkerk - Westwijk Noord
+WK036212	Westwijk Zuid
+WK036213	Buitengebied Zuid
+WK036214	Amsterdamse Bos
+WK036399	Groot water
+WK0363AA	Haarlemmerbuurt
+WK0363AB	Jordaan
+WK0363AC	Grachtengordel-West
+WK0363AD	Burgwallen-Nieuwe Zijde
+WK0363AE	Burgwallen-Oude Zijde
+WK0363AF	Nieuwmarkt/Lastage
+WK0363AG	Grachtengordel-Zuid
+WK0363AH	De Weteringschans
+WK0363AJ	Weesperbuurt/Plantage
+WK0363AK	Oostelijke Eilanden/Kadijken
+WK0363BA	Havens-West
+WK0363BB	Coenhaven/Minervahaven
+WK0363EA	Sloterdijk-West
+WK0363EB	Spaarndammerbuurt/Zeeheldenbuurt
+WK0363EC	Houthavens
+WK0363ED	De Kolenkit
+WK0363EE	Landlust
+WK0363EF	Erasmuspark
+WK0363EG	Centrale Markt
+WK0363EH	Staatsliedenbuurt
+WK0363EJ	Frederik Hendrikbuurt
+WK0363EK	Van Galenbuurt
+WK0363EL	Geuzenbuurt
+WK0363EM	Hoofdweg e.o.
+WK0363EN	Chassébuurt
+WK0363EP	Bellamybuurt
+WK0363EQ	Da Costabuurt
+WK0363ER	Westindische Buurt
+WK0363ES	Van Lennepbuurt
+WK0363ET	Overtoomse Sluis
+WK0363EU	Helmersbuurt
+WK0363EV	Vondelparkbuurt
+WK0363FA	Sloterdijk Nieuw-West
+WK0363FB	Geuzenveld
+WK0363FC	Slotermeer-West
+WK0363FD	Slotermeer-Noordoost
+WK0363FE	Slotermeer-Zuidoost
+WK0363FF	Lutkemeer/Ookmeer
+WK0363FG	De Aker
+WK0363FH	De Punt
+WK0363FJ	Osdorp-Midden
+WK0363FK	Osdorp-Oost
+WK0363FL	Slotervaart-Noord
+WK0363FM	Overtoomse Veld
+WK0363FN	Slotervaart-Zuid
+WK0363FP	Westlandgracht
+WK0363FQ	Sloten/Nieuw-Sloten
+WK0363KA	Hoofddorppleinbuurt
+WK0363KB	Schinkelbuurt
+WK0363KC	Willemspark
+WK0363KD	Museumkwartier
+WK0363KE	Oude Pijp
+WK0363KF	Nieuwe Pijp
+WK0363KG	Zuid Pijp
+WK0363KH	Stadionbuurt
+WK0363KJ	Apollobuurt
+WK0363KK	Scheldebuurt
+WK0363KL	IJselbuurt
+WK0363KM	Rijnbuurt
+WK0363KN	Prinses Irenebuurt e.o.
+WK0363KP	Zuidas
+WK0363KQ	Buitenveldert-West
+WK0363KR	Buitenveldert-Oost
+WK0363MA	Oostelijk Havengebied
+WK0363MB	Weesperzijde
+WK0363MC	Oosterparkbuurt
+WK0363MD	Transvaalbuurt
+WK0363ME	Dapperbuurt
+WK0363MF	Indische Buurt-West
+WK0363MG	Indische Buurt-Oost
+WK0363MH	Zeeburgereiland/Bovendiep
+WK0363MJ	IJburg-West
+WK0363MK	IJburg-Oost
+WK0363ML	IJburg-Zuid
+WK0363MM	Frankendael
+WK0363MN	Middenmeer
+WK0363MP	Betondorp
+WK0363MQ	Omval/Overamstel
+WK0363NA	Oostzanerwerf
+WK0363NB	Noordelijke IJ-oevers-West
+WK0363NC	Tuindorp Oostzaan
+WK0363ND	Kadoelen
+WK0363NE	Banne Buiksloot
+WK0363NF	Nieuwendammerdijk/Buiksloterdijk
+WK0363NG	Elzenhagen
+WK0363NH	Buikslotermeer
+WK0363NJ	Waterlandpleinbuurt
+WK0363NK	Volewijck
+WK0363NL	IJplein/Vogelbuurt
+WK0363NM	Tuindorp Buiksloot
+WK0363NN	Tuindorp Nieuwendam
+WK0363NP	Noordelijke IJ-oevers-Oost
+WK0363NQ	Waterland
+WK0363SA	Driemond
+WK0363SB	Bloemendalerpolder
+WK0363SC	Weesp-Noordwest
+WK0363SD	Weesp Binnenstad/Zuid
+WK0363SE	Aetsveld/Oostelijke Vechtoever
+WK0363TA	Amstel III/Bullewijk
+WK0363TB	Venserpolder
+WK0363TC	Amsterdamse Poort e.o.
+WK0363TD	H-buurt
+WK0363TE	Ganzenhoef e.o.
+WK0363TF	Geerdinkhof/Kantershof
+WK0363TG	Bijlmermuseum
+WK0363TH	K-buurt
+WK0363TJ	Holendrecht
+WK0363TK	Nellestein
+WK0363TL	Reigersbos
+WK0363TM	Gein
+WK037301	Wijk 01 Bergen Binnen
+WK037302	Wijk 02 Bergen aan Zee
+WK037303	Wijk 03 Buitengebied Bergen
+WK037304	Wijk 04 Egmond aan Zee
+WK037305	Wijk 05 Egmond-Binnen
+WK037306	Wijk 06 Egmond aan den Hoef
+WK037307	Wijk 07 Schoorl
+WK037399	Groot water
+WK037500	Centrum
+WK037501	Vondelkwartier
+WK037502	Oranjebuurt
+WK037503	Kuenenkwartier
+WK037504	Warande
+WK037505	Noordwestelijk tuinbouwgebied
+WK037506	Oosterwijk en Zwaansmeer
+WK037507	Meerestein
+WK037508	Wijk aan Zee
+WK037509	de Pijp en Wijkerbroek
+WK037510	Broekpolder
+WK037599	Groot water
+WK037601	Blaricum
+WK037699	Groot water
+WK037700	Wijk 00 Bloemendaal
+WK037701	Wijk 01 Overveen
+WK037702	Wijk 02 Aerdenhout
+WK037703	Wijk 03 Vogelenzang
+WK037704	Wijk 04 Bennebroek
+WK037799	Groot water
+WK038300	Wijk 00 Centrum
+WK038301	Wijk 01 Castricum-Noord
+WK038302	Wijk 02 Castricum-Oost
+WK038303	Wijk 03 Castricum-Zuid
+WK038304	Wijk 04 Bakkum
+WK038305	Wijk 05 Akersloot
+WK038306	Wijk 06 De Woude
+WK038307	Wijk 07 Limmen
+WK038399	Groot water
+WK038401	Diemen Noord
+WK038402	Diemen Centrum
+WK038403	Diemen Zuid
+WK038404	Bergwijkpark
+WK038405	Holland Park
+WK038406	Bedrijventerreinen
+WK038407	Plantage de Sniep
+WK038408	Buitengebied
+WK038499	Groot water
+WK038500	Wijk 00 Edam
+WK038501	Wijk 01 Purmer
+WK038502	Wijk 02 Volendam
+WK038503	Wijk 03 Beets
+WK038504	Wijk 04 Oosthuizen
+WK038505	Wijk 05 Warder
+WK038506	Wijk 06 Middelie
+WK038507	Wijk 07 Kwadijk
+WK038508	Wijk 08 Schardam
+WK038509	Wijk 09 Hobrede
+WK038599	Groot water
+WK038800	Centrum en Havens
+WK038801	Enkhuizen Noord
+WK038802	Enkhuizen Buitengebied
+WK038803	Enkhuizen Zuid
+WK038810	Buitengebied IJsselmeer en Markermeer
+WK038899	Groot water
+WK039201	Oude Stad
+WK039202	Haarlemmerhoutkwartier
+WK039203	Zijlwegkwartier
+WK039204	Houtvaartkwartier
+WK039205	Duinwijk
+WK039206	Waarder- en Veerpolder
+WK039207	Amsterdamsewijk
+WK039208	Slachthuiswijk
+WK039209	Parkwijk
+WK039210	Transvaalwijk
+WK039211	Indischewijk
+WK039212	Ter Kleefkwartier
+WK039213	Te Zaanenkwartier
+WK039214	Vogelenwijk
+WK039215	Delftwijk
+WK039216	Vondelkwartier
+WK039217	Spaarndam
+WK039218	Europawijk
+WK039219	Boerhaavewijk
+WK039220	Molenwijk
+WK039221	Meerwijk
+WK039401	Hoofddorp
+WK039402	Nieuw-Vennep
+WK039403	Zwanenburg
+WK039404	Lijnden / Boesingheliede
+WK039405	Badhoevedorp
+WK039406	Aalsmeerderbrug/ Oude Meer/ Rozenburg / Schiphol Rijk
+WK039407	Rijsenhout
+WK039408	Burgerveen / Leimuiderbrug / Weteringbrug
+WK039409	Abbenes / Buitenkaag
+WK039410	Lisserbroek
+WK039411	Beinsdorp
+WK039412	Zwaanshoek
+WK039413	Cruquius
+WK039415	Vijfhuizen
+WK039416	Schiphol
+WK039420	Spaarndam
+WK039421	Haarlemmerliede
+WK039422	Halfweg
+WK039601	Wijk 01 Heemskerk-Dorp
+WK039602	Wijk 02 Commandeurs en Marquette
+WK039603	Wijk 03 Hofland, Oosterwijk en Zuidbroek
+WK039604	Wijk 04 Heemskerkerduin en Noorddorp
+WK039605	Wijk 05 Poelenburg en Oosterzij
+WK039606	Wijk 06 Noordbroek en De Trompet
+WK039607	Wijk 07 Kerkbeek
+WK039608	Wijk 08 Assumburg
+WK039609	Wijk 09 Hoogdorp en Waterakkers
+WK039610	Wijk 10 Broekpolder
+WK039611	Wijk 11 Oostelijk Heemskerk
+WK039699	Groot water
+WK039700	Wijk 00 Heemstede-Centrum
+WK039701	Wijk 01 Heemstede-Zuid
+WK039702	Wijk 02 Heemstede west van de spoorbaan
+WK039901	Wijk 01 Blockhovepark
+WK039902	Wijk 02 Heiloo Noord-West
+WK039903	Wijk 03 Heiloo-Midden
+WK039904	Wijk 04 Heiloo-West
+WK039905	Wijk 05 Stationsomgeving
+WK039906	Wijk 06 Ypestein
+WK039907	Wijk 07 Heiloo-Oost
+WK039908	Wijk 08 Heiloo Zuid-West
+WK040001	Wijk 01 Stad binnen de Linie-Oost
+WK040002	Wijk 02 Stad binnen de Linie-West
+WK040003	Wijk 03 Nieuw Den Helder-West
+WK040004	Wijk 04 Nieuw Den Helder-Oost
+WK040005	Wijk 05 De Schooten
+WK040006	Wijk 06 Het Koegras
+WK040007	Wijk 07 Duinzoom
+WK040008	Wijk 08 Julianadorp
+WK040099	Groot water
+WK040201	Centrum
+WK040202	Noordwest
+WK040203	Zuidwest
+WK040204	Zuid
+WK040205	Zuidoost
+WK040206	Oost
+WK040207	Noordoost
+WK040208	Hilversumse Meent
+WK040209	Landelijk Gebied
+WK040510	Wijk 10 Binnenstad
+WK040511	Wijk 11 Venenlaan-kwartier
+WK040512	Wijk 12 Hoorn-Noord
+WK040513	Wijk 13 Grote Waal
+WK040520	Wijk 20 Risdam-Zuid
+WK040521	Wijk 21 Risdam-Noord
+WK040522	Wijk 22 Nieuwe Steen
+WK040530	Wijk 30 Zwaag
+WK040531	Wijk 31 Blokker
+WK040532	Wijk 32 Kersenboogerd-Noord
+WK040533	Wijk 33 Kersenboogerd-Zuid
+WK040534	Wijk 34 Hoorn 80
+WK040535	Wijk 35 Bangert en Oosterpolder
+WK040536	Wijk 36 Noord
+WK040599	Groot water
+WK040600	Wijk 00 Oude Dorp
+WK040601	Wijk 01 Westereng
+WK040602	Wijk 02 Buitenwijken
+WK040603	Wijk 03 Erica en Tafelberg
+WK040604	Wijk 04 Staatslieden en Componistenbuurt
+WK040605	Wijk 05 Havengebied
+WK040606	Wijk 06 Zenderwijk en Bovenweg
+WK040607	Wijk 07 Stad en Lande
+WK040608	Wijk 08 Huizermaat West en Zuid
+WK040609	Wijk 09 Huizermaat Noord
+WK040610	Wijk 10 Bijvanck
+WK040611	Wijk 11 Bovenmaten
+WK040612	Wijk 12 Hogemaat
+WK040699	Groot water
+WK041501	Purmerland
+WK041502	Den Ilp
+WK041503	Landsmeer
+WK041703	Laren
+WK042001	Medemblik
+WK042002	Opperdoes
+WK042003	Twisk
+WK042004	Lambertschaag
+WK042005	Abbekerk
+WK042006	Sijbekarspel
+WK042007	Benningbroek
+WK042008	Wognum
+WK042009	Zwaagdijk-West
+WK042010	Nibbixwoud
+WK042011	Midwoud
+WK042012	Oostwoud
+WK042013	Hauwert
+WK042014	Zwaagdijk-Oost
+WK042015	Wervershoof
+WK042016	Andijk
+WK042099	Groot water
+WK043100	Wijk 00
+WK043201	Opmeer
+WK043202	Spanbroek
+WK043203	Hoogwoud
+WK043204	Aartswoud
+WK043205	De Weere
+WK043700	Wijk 00
+WK043901	Wijk 01 Centrum
+WK043902	Wijk 02 Overwhere
+WK043903	Wijk 03 Wheermolen
+WK043904	Wijk 04 Gors
+WK043905	Wijk 05 Purmer-Noord
+WK043906	Wijk 06 Purmer-Zuid
+WK043907	Wijk 07 Weidevenne
+WK043908	Beemster
+WK044101	Schagerbrug
+WK044102	Schagen-Zuid
+WK044103	Burgerbrug
+WK044104	Sint Maarten
+WK044105	Warmenhuizen
+WK044106	Tuitjenhorn
+WK044107	Waarland
+WK044108	Dirkshorn
+WK044109	Oudesluis
+WK044110	Schagen-Centrum
+WK044111	Petten
+WK044112	Sint Maartensbrug
+WK044113	t Zand
+WK044114	Sint Maartensvlotbrug
+WK044115	Callantsoog
+WK044116	Schagen-West
+WK044117	Schagen-Oost
+WK044118	Schagen-Noord
+WK044199	Groot water
+WK044800	Wijk 00 Het Oude Land en duingebied
+WK044801	Wijk 01 Het Nieuwe Land
+WK044899	Groot water
+WK045000	Wijk 00 Uitgeest
+WK045115	Wijk 15 Dorpscentrum
+WK045125	Wijk 25 Thamerdal
+WK045135	Wijk 35 Zijdelwaard
+WK045145	Wijk 45 Legmeer
+WK045150	Wijk 50 Langs de Vuurlinie
+WK045155	Wijk 55 Veilinggebied
+WK045165	Wijk 65 Meerwijk
+WK045175	Wijk 75 Bedrijventerrein
+WK045185	Wijk 85 Meerwijk
+WK045190	Wijk 90 Glastuinbouwgebied
+WK045195	Wijk 95 Veenweidegebied
+WK045300	Wijk 00 Velsen-Zuid en Driehuis
+WK045301	Wijk 01 IJmuiden-Noord
+WK045302	Wijk 02 IJmuiden-Zuid
+WK045303	Wijk 03 IJmuiden-West
+WK045304	Wijk 04 Zee- en Duinwijk
+WK045305	Wijk 05 Velsen-Noord
+WK045306	Wijk 06 Santpoort-Noord
+WK045307	Wijk 07 Santpoort-Zuid
+WK045308	Wijk 08 Velserbroek
+WK045309	Wijk 09 Spaarndammerpolder
+WK045399	Groot water
+WK047301	Zandvoort Noord
+WK047302	Zandvoort Zuid
+WK047303	Bentveld
+WK047304	Buitengebied
+WK047399	Groot water
+WK047911	Wijk 11 Zaandam Zuid
+WK047912	Wijk 12 Poelenburg
+WK047913	Wijk 13 Pelders- en Hoornseveld
+WK047914	Wijk 14 Rosmolenwijk
+WK047915	Wijk 15 Kogerveldwijk
+WK047916	Wijk 16 Zaandam Noord
+WK047921	Wijk 21 Oude Haven
+WK047922	Wijk 22 Zaandam West
+WK047923	Wijk 23 Nieuw West
+WK047931	Wijk 31 Oud Koog a/d Zaan
+WK047932	Wijk 32 Westerkoog
+WK047941	Wijk 41 Oud Zaandijk
+WK047942	Wijk 42 Rooswijk
+WK047951	Wijk 51 Wormerveer
+WK047961	Wijk 61 Krommenie Oost
+WK047962	Wijk 62 Krommenie West
+WK047971	Wijk 71 Assendelft-Zuid
+WK047972	Wijk 72 Assendelft-Noord
+WK047981	Wijk 81 Westzaan
+WK048201	Wijk 01 Centrum
+WK048202	Wijk 02 Kinderdijk
+WK048203	Wijk 03 Blokweer
+WK048204	Wijk 04 Souburgh
+WK048205	Wijk 05 Bedrijventerrein
+WK048206	Wijk 06 Landelijk gebied
+WK048401	Oudshoorn
+WK048402	Ridderveld
+WK048403	Zegersloot
+WK048404	Hoorn
+WK048405	Hoge Zijde
+WK048406	Lage Zijde
+WK048407	Steekterpolder
+WK048408	Kerk en Zanen
+WK048409	Rietveld
+WK048431	Benthuizen
+WK048445	Aarlanderveen
+WK048470	Boskoop
+WK048471	Zwammerdam
+WK048491	Hazerswoude-Dorp
+WK048494	Hazerswoude-Rijndijk
+WK048496	Koudekerk aan den Rijn
+WK048901	Wijk 01 Centrum
+WK048902	Wijk 02 Noord
+WK048903	Wijk 03 Binnenland
+WK048904	Wijk 04 Oranjewijk
+WK048905	Wijk 05 Buitenoord
+WK048906	Wijk 06 Ter Leede
+WK048907	Wijk 07 Paddewei
+WK048908	Wijk 08 Molenvliet
+WK048909	Wijk 09 Nieuweland
+WK048910	Wijk 10 Dorpzicht
+WK048911	Wijk 11 Bijdorp
+WK048912	Wijk 12 Smitshoek
+WK048913	Wijk 13 Voordijk
+WK048914	Wijk 14 Meerwede
+WK048915	Wijk 15 Waterkant
+WK048916	Wijk 16 Havenkwartier
+WK048917	Wijk 17 Gaatkensoog
+WK048918	Wijk 18 Riederhoek
+WK048919	Wijk 19 Vrijheidsakker
+WK048920	Wijk 20 Vrijenburg
+WK048930	Wijk 30 Buitengebied Noord
+WK048931	Wijk 31 Buitengebied Zuid
+WK048950	Wijk 50 Bedrijventerreinen
+WK049800	Hoogkarspel
+WK049801	Westwoud
+WK049802	Oosterblokker
+WK049803	Venhuizen
+WK049804	Wijdenes
+WK049805	Schellinkhout
+WK049806	Hem
+WK049807	Oosterleek
+WK049899	Groot water
+WK050201	Capelle West en 's Gravenland
+WK050202	Middelwatering West
+WK050203	Middelwatering Oost
+WK050204	Oostgaarde Zuid
+WK050205	Oostgaarde Noord
+WK050206	Schenkel
+WK050207	Schollevaar Zuid
+WK050208	Schollevaar Noord
+WK050209	Rivium
+WK050311	Wijk 11 Binnenstad
+WK050312	Wijk 12 Vrijenban
+WK050313	Wijk 13 Hof van Delft
+WK050314	Wijk 14 Voordijkshoorn
+WK050316	Wijk 16 Delftse Hout
+WK050322	Wijk 22 Tanthof-West
+WK050323	Wijk 23 Tanthof-Oost
+WK050324	Wijk 24 Voorhof
+WK050325	Wijk 25 Buitenhof
+WK050326	Wijk 26 Abtswoude
+WK050327	Wijk 27 Schieweg
+WK050328	Wijk 28 Wippolder
+WK050329	Wijk 29 Ruiven
+WK050501	Wijk 01 Binnenstad
+WK050502	Wijk 02 Noordflank
+WK050503	Wijk 03 Oud Krispijn
+WK050504	Wijk 04 Nieuw-krispijn
+WK050505	Wijk 05 Het Reeland
+WK050506	Wijk 06 Staart
+WK050507	Wijk 07 Wielwijk
+WK050508	Wijk 08 Crabbehof/Zuidhoven
+WK050509	Wijk 09 Sterrenburg
+WK050510	Wijk 10 Dubbeldam
+WK050511	Wijk 11 Stadspolders
+WK050519	Wijk 19 Industriegebied West
+WK050598	Wijk 98 Verspreide bebouwing
+WK050599	Groot water
+WK051201	Wijk 01 Gorinchem binnenstad
+WK051202	Wijk 02 Wijdschild
+WK051203	Wijk 03 Lingewijk
+WK051204	Wijk 04 haarwijk
+WK051205	Wijk 05 Stalkaarsen
+WK051206	Wijk 06 Gildenwijk
+WK051207	Wijk 07 Schelluinsestraat
+WK051208	Wijk 08 Avelingen Oost
+WK051209	Wijk 09 Avelingen West
+WK051210	Wijk 10 Molenvliet
+WK051211	Wijk 11 laag Dalem
+WK051212	Wijk 12 Dalem
+WK051213	Wijk 13 Hoog Dalem
+WK051214	Wijk 14 Bedrijventerrein Oost
+WK051215	Wijk 15 Papland
+WK051216	Wijk 16 schotdeuren
+WK051217	Wijk 17 Bedrijventerrein Noord
+WK051218	Wijk 18 Landelijk gebied West
+WK051219	Wijk 19 Landelijk gebied Noord
+WK051220	Wijk 20 Landelijk gebied Oost
+WK051221	Wijk 21 Landelijk gebied Zuid
+WK051301	Binnenstad
+WK051302	De Korte Akkeren
+WK051303	Bloemendaal
+WK051304	Plaswijck
+WK051305	Noord
+WK051306	Kort Haarlem
+WK051307	Goverwelle
+WK051308	Stolwijkersluis
+WK051309	Westergouwe
+WK051801	Wijk 01 Oostduinen
+WK051802	Wijk 02 Belgisch Park
+WK051803	Wijk 03 Westbroekpark en Duttendel
+WK051804	Wijk 04 Benoordenhout
+WK051805	Wijk 05 Archipelbuurt
+WK051806	Wijk 06 Van Stolkpark en Scheveningse Bosjes
+WK051807	Wijk 07 Scheveningen
+WK051808	Wijk 08 Duindorp
+WK051809	Wijk 09 Geuzen- en Statenkwartier
+WK051810	Wijk 10 Zorgvliet
+WK051811	Wijk 11 Duinoord
+WK051812	Wijk 12 Bomen- en Bloemenbuurt
+WK051813	Wijk 13 Vogelwijk
+WK051814	Wijk 14 Bohemen en Meer en Bos
+WK051815	Wijk 15 Kijkduin en Ockenburgh
+WK051816	Wijk 16 Kraayenstein en Vroondaal
+WK051817	Wijk 17 Loosduinen
+WK051818	Wijk 18 Waldeck
+WK051819	Wijk 19 Vruchtenbuurt
+WK051820	Wijk 20 Valkenboskwartier
+WK051821	Wijk 21 Regentessekwartier
+WK051822	Wijk 22 Zeeheldenkwartier
+WK051823	Wijk 23 Willemspark
+WK051824	Wijk 24 Haagse Bos
+WK051825	Wijk 25 Mariahoeve en Marlot
+WK051826	Wijk 26 Bezuidenhout
+WK051827	Wijk 27 Stationsbuurt
+WK051828	Wijk 28 Centrum
+WK051829	Wijk 29 Schildersbuurt
+WK051830	Wijk 30 Transvaalkwartier
+WK051831	Wijk 31 Rustenburg en Oostbroek
+WK051832	Wijk 32 Leyenburg
+WK051833	Wijk 33 Bouwlust en Vrederust
+WK051834	Wijk 34 Morgenstond
+WK051835	Wijk 35 Zuiderpark
+WK051836	Wijk 36 Moerwijk
+WK051837	Wijk 37 Groente- en Fruitmarkt
+WK051838	Wijk 38 Laakkwartier en Spoorwijk
+WK051839	Wijk 39 Binckhorst
+WK051840	Wijk 40 Wateringse Veld
+WK051841	Wijk 41 Hoornwijk
+WK051842	Wijk 42 Ypenburg
+WK051843	Wijk 43 Forepark
+WK051844	Wijk 44 Leidschenveen
+WK051899	Groot water
+WK052301	Neder Hardinxveld
+WK052302	De Peulen
+WK052303	Boven Hardinxveld
+WK052304	Giessendam
+WK053101	Wijk 01 Centrum
+WK053102	Wijk 02 Krommeweg
+WK053103	Wijk 03 De Volgerlanden
+WK053104	Wijk 04 Sandelingen-Ambacht
+WK053105	Wijk 05 De Oevers
+WK053201	Stede Broec Buitengebied
+WK053202	Stede Broec Noord
+WK053203	Stede Broec Zuid
+WK053299	Groot water
+WK053401	Hillegom Midden
+WK053402	Hillegom Noord
+WK053403	Hillegom Zuid
+WK053404	Hillegom West
+WK053405	Buitengebied
+WK053701	Katwijk Noord
+WK053702	't Heen
+WK053703	Katwijk aan den Rijn
+WK053705	Katwijk aan Zee
+WK053706	Landelijk gebied Katwijk
+WK053707	Rijnsburg
+WK053708	Valkenburg
+WK053799	Groot water
+WK054200	Wijk 00 Krimpen aan den IJssel
+WK054600	Binnenstad-Zuid
+WK054601	Binnenstad-Noord
+WK054602	Stationsdistrict
+WK054603	Leiden-Noord
+WK054604	Roodenburgerdistrict
+WK054605	Bos- en Gasthuisdistrict
+WK054606	Morsdistrict
+WK054607	Boerhaavedistrict
+WK054608	Merenwijkdistrict
+WK054609	Stevenshofdistrict
+WK054700	Wijk 00
+WK054701	Wijk 01
+WK054702	Wijk 02
+WK055301	Lisse Noord
+WK055302	Centrum
+WK055303	Lisse Zuid
+WK055304	Buitengebied
+WK055601	Wijk 01 Taanschuurpolder
+WK055602	Wijk 02 Dijkpolder
+WK055603	Sluispolder
+WK055604	Wijk 04 Kapelpolder
+WK055605	Wijk 05 Burgemeesterswijk
+WK055606	Wijk 06 Steendijkpolder
+WK055607	Wijk 07 Aalkeetpolder
+WK055608	Wijk 08 Wilgenrijk
+WK056900	Wijk 00
+WK056901	Wijk 01 Nieuwveen
+WK056902	Wijk 02 Zevenhoven
+WK056903	Wijk 03 Ter Aar
+WK057500	Noordwijk Zee
+WK057501	Noordwijk Binnen
+WK057502	Noordwijk Buitengebied
+WK057503	Noordwijkerhout
+WK057504	Noordwijkerhout Buitengebied
+WK057505	De Zilk
+WK057599	Groot water
+WK057901	Oud Oegstgeest
+WK057902	Oudenhof
+WK057903	De Kwaak
+WK057904	Oegstgeest Noord
+WK057905	Oegstgeest West
+WK058901	Hekendorp
+WK058902	Oudewater
+WK058903	Papekop
+WK058904	Snelrewaard
+WK059001	Westpolder
+WK059002	Molenvliet
+WK059003	Kraaihoek
+WK059004	Middenpolder
+WK059005	Wilgendonk
+WK059006	De Kooy-Oosteind
+WK059007	Oostpolder
+WK059008	Vriesenpolder
+WK059009	De Noordoever
+WK059701	Centrum
+WK059702	West
+WK059703	Oost
+WK059704	Drievliet
+WK059705	Het Zand
+WK059706	Slikkerveer
+WK059707	Bolnes
+WK059708	Rijsoord
+WK059709	Oostendam
+WK059710	Donkersloot
+WK059711	Verenambacht
+WK059712	Cornelisland
+WK059901	Rotterdam Centrum
+WK059903	Delfshaven
+WK059904	Overschie
+WK059905	Noord
+WK059906	Hillegersberg-Schiebroek
+WK059908	Kralingen-Crooswijk
+WK059910	Feijenoord
+WK059912	IJsselmonde
+WK059913	Pernis
+WK059914	Prins Alexander
+WK059915	Charlois
+WK059916	Hoogvliet
+WK059917	Hoek van Holland
+WK059918	Spaanse Polder
+WK059919	Nieuw Mathenesse
+WK059921	Waalhaven-Eemhaven
+WK059922	Vondelingenplaat
+WK059923	Botlek-Europoort-Maasvlakte
+WK059924	Rotterdam-Noord-West
+WK059925	Rivium
+WK059927	Rozenburg
+WK059999	Groot water
+WK060301	Wijk 01
+WK060302	Wijk 02
+WK060303	Wijk 03
+WK060304	Wijk 04
+WK060305	Wijk 05
+WK060306	Wijk 06
+WK060307	Wijk 07
+WK060308	Wijk 08
+WK060309	Wijk 09
+WK060310	Wijk 10
+WK060311	Wijk 11
+WK060600	Wijk 00 Centrum
+WK060601	Wijk 01 Oost
+WK060602	Wijk 02 Schiedamse Havens
+WK060603	Wijk 03 West
+WK060604	Wijk 04 Zuid
+WK060605	Wijk 05 Kethel
+WK060606	Wijk 06 Nieuwland
+WK060607	Wijk 07 Groenoord
+WK060608	Wijk 08 Industrie
+WK060609	Wijk 09 Woudhoek
+WK060610	Wijk 10 Spaland en Sveaparken
+WK060611	Wijk 11 Polderbuitengebied
+WK061001	Wijk 01 Sliedrecht-West
+WK061002	Wijk 02 Sliedrecht-Centrum
+WK061003	Wijk 03 Sliedrecht-Oost
+WK061004	Wijk 04 Sliedrecht-Noord
+WK061301	Wijk 01 Poortugaal-Noord
+WK061302	Wijk 02 Rhoon-Noord
+WK061303	Wijk 03 Poortugaal-Zuid
+WK061304	Wijk 04 Rhoon-Zuid
+WK061305	Wijk 05 Buitengebied Albrandswaard
+WK061306	Wijk 06 Portland
+WK061307	Wijk 07 Rotterdam-Albrandswaard
+WK062201	Centrum
+WK062202	Westwijk
+WK062203	Vettenoordse Polder
+WK062204	Oostwijk
+WK062205	Vlaardinger Ambacht
+WK062206	Holy Zuid
+WK062207	Holy Noord
+WK062208	Broekpolder
+WK062600	Wijk 00
+WK062701	Wijk 01
+WK062702	Wijk 02
+WK062703	Wijk 03
+WK062704	Wijk 04
+WK062900	Wijk 00 Zuidwestelijk deel der gemeente
+WK062901	Wijk 01 Noordoostelijk deel der gemeente
+WK062999	Groot water
+WK063201	Wijk 01 Woerden-Midden
+WK063202	Wijk 02 Woerden-West
+WK063203	Wijk 03 Woerden-Oost
+WK063204	Wijk 04 Buitengebied Woerden-West
+WK063205	Wijk 05 Buitengebied Woerden-Oost
+WK063206	Wijk 06 Harmelen
+WK063207	Wijk 07 Kamerik
+WK063208	Wijk 08 Zegveld
+WK063700	Centrum
+WK063701	Meerzicht
+WK063702	Buytenwegh de Leyens
+WK063703	Seghwaert
+WK063704	Noordhove
+WK063705	Rokkeveen
+WK063706	Oosterheem
+WK063708	Industriegebied
+WK063709	Buitengebied
+WK063800	Zoeterwoude-Dorp
+WK063801	Westeinde
+WK063802	Zuidbuurt
+WK063803	Weipoort
+WK063804	Gelderswoude
+WK063809	Verspreide huizen
+WK063810	Zoeterwoude-Rijndijk
+WK064201	Wijk 01 Walburg
+WK064202	Wijk 02 Centrum
+WK064203	Wijk 03 Noord
+WK064204	Wijk 04 Heer Oudelands Ambacht
+WK064205	Wijk 05 Kort Ambacht
+WK064206	Wijk 06 Nederhoven
+WK064207	Wijk 07 Verspreide bebouwing
+WK064208	Wijk 08 Bebouwde kom Heerjansdam
+WK064209	Wijk 09 Landelijk gebied Heerjansdam
+WK065401	Baarland
+WK065402	Borssele
+WK065403	Driewegen
+WK065404	Ellewoutsdijk
+WK065405	Heinkenszand
+WK065406	Hoedekenskerke
+WK065407	Kwadendamme
+WK065408	Lewedorp
+WK065409	Nieuwdorp
+WK065410	Nisse
+WK065411	Oudelande
+WK065412	Ovezande
+WK065413	's-Gravenpolder
+WK065414	's-Heer Abtskerke
+WK065415	's-Heerenhoek
+WK065499	Groot water
+WK066401	Wijk 01 Goes
+WK066402	Wijk 02 Wilhelminadorp
+WK066403	Wijk 03 Kloetinge
+WK066404	Wijk 04 Kattendijke
+WK066405	Wijk 05 's-Heer-Arendskerke
+WK066406	Wijk 06 Eindewege
+WK066407	Wijk 07 's-Heer-Hendrikskinderen
+WK066408	Wijk 08 Wolphaartsdijk
+WK066409	Wijk 09 Oud-Sabbinge
+WK066499	Groot water
+WK066801	Wijk 01 Alphen
+WK066802	Wijk 02 Altforst
+WK066803	Wijk 03 Appeltern
+WK066804	Wijk 04 Beneden-Leeuwen
+WK066805	Wijk 05 Boven-Leeuwen
+WK066806	Wijk 06 Dreumel
+WK066807	Wijk 07 Maasbommel
+WK066808	Wijk 08 Wamel
+WK067701	Hulst
+WK067702	Sint Jansteen
+WK067703	Clinge
+WK067704	Graauw
+WK067705	Heikant
+WK067706	Nieuw Namen
+WK067707	Kapellebrug
+WK067708	Kloosterzande
+WK067709	Lamswaarde
+WK067710	Terhole
+WK067711	Vogelwaarde
+WK067712	Hengstdijk
+WK067713	Ossenisse
+WK067714	Kuitaart
+WK067715	Walsoorden
+WK067799	Groot water
+WK067800	Wijk 00 Kapelle
+WK067801	Wijk 01 Wemeldinge
+WK067802	Wijk 02 Schore
+WK067899	Groot water
+WK068700	Binnenstad
+WK068710	Griffioen
+WK068711	Klarenbeek
+WK068712	Nieuw Middelburg
+WK068713	Brigdamme
+WK068714	Sint Laurens
+WK068715	Ramsburg
+WK068716	Veersepoort
+WK068717	Verspreide huizen in het noorden
+WK068718	Verspreide huizen in het noordwesten
+WK068719	Verspreide huizen in het noordoosten
+WK068720	Stromenwijk/'t Zand
+WK068729	Verspreide huizen in het zuidwesten
+WK068730	Middelburg Zuid
+WK068731	Dauwendaele
+WK068732	Arnestein
+WK068739	Mortiere
+WK068740	Nieuw- en Sint Joosland
+WK068749	Verspreide huizen Nieuw- en Sint Joosland
+WK068750	Arnemuiden
+WK068751	Kleverskerke
+WK068752	Oranjeplaat
+WK068753	Veerse Meer
+WK068759	Verspreide huizen Arnemuiden
+WK068799	Groot water
+WK070300	Wijk 00 Yerseke
+WK070301	Wijk 01 Kruiningen
+WK070302	Wijk 02 Krabbendijke
+WK070303	Wijk 03 Waarde
+WK070304	Wijk 04 Rilland-Bath
+WK070305	Wijk 05 Hansweert
+WK070306	Wijk 06 Oostdijk
+WK070399	Groot water
+WK071501	Kern Axel
+WK071502	Buitengebied Axel
+WK071503	Kern Biervliet
+WK071504	Buitengebied Biervliet
+WK071505	Kern Hoek
+WK071506	Buitengebied Hoek
+WK071507	Kern Koewacht
+WK071508	Buitengebied Koewacht
+WK071509	Kern Overslag
+WK071510	Buitengebied Overslag
+WK071511	Kern Philippine
+WK071512	Buitengebied Philippine
+WK071513	Kern Sas van Gent
+WK071514	Buitengebied Sas van Gent
+WK071515	Kern Sluiskil
+WK071516	Buitengebied Sluiskil
+WK071517	Kern Spui
+WK071518	Buitengebied Spui
+WK071519	Buitengebied Terneuzen
+WK071520	Terneuzen Centrum
+WK071521	Terneuzen Noord
+WK071522	Terneuzen West
+WK071523	Terneuzen Zuid
+WK071524	Terneuzen Oost
+WK071525	Kern Westdorpe
+WK071526	Buitengebied Westdorpe
+WK071527	Kern Zaamslag
+WK071528	Buitengebied Zaamslag
+WK071529	Kern Zuiddorpe
+WK071530	Buitengebied Zuiddorpe
+WK071599	Groot water
+WK071600	Tholen
+WK071601	Poortvliet
+WK071602	Scherpenisse
+WK071603	Sint-Maartensdijk
+WK071604	Stavenisse
+WK071605	Sint-Annaland
+WK071606	Oud-Vossemeer
+WK071607	Sint Philipsland
+WK071699	Groot water
+WK071700	Wijk 00 Veere
+WK071701	Wijk 01 Gapinge
+WK071702	Wijk 02 Vrouwenpolder
+WK071703	Wijk 03 Serooskerke
+WK071704	Wijk 04 Domburg
+WK071705	Wijk 05 Oostkapelle
+WK071706	Wijk 06 Aagtekerke
+WK071707	Wijk 07 Grijpskerke
+WK071708	Wijk 08 Meliskerke
+WK071709	Wijk 09 Koudekerke
+WK071710	Wijk 10 Biggekerke
+WK071711	Wijk 11 Zoutelande
+WK071712	Wijk 12 Westkapelle
+WK071799	Groot water
+WK071801	Binnenstad
+WK071802	Middengebied
+WK071803	Paauwenburg - Westduin
+WK071804	Lammerenburg
+WK071805	Oost-Souburg
+WK071806	Ritthem e.o.
+WK071807	Binnen- en Buitenhavens
+WK071808	Sloegebied
+WK071899	Groot water
+WK073601	Mijdrecht
+WK073602	de Hoef
+WK073603	Amstelhoek
+WK073604	Vinkeveen
+WK073605	Waverveen
+WK073606	Wilnis
+WK073607	Abcoude
+WK073608	Baambrugge
+WK073700	Wijk 00 Burgum
+WK073701	Wijk 01 Aldtsjerk
+WK073702	Wijk 02 Mûnein
+WK073703	Wijk 03 Ryptsjerk
+WK073704	Wijk 04 Tytsjerk
+WK073705	Wijk 05 Earnewâld
+WK073706	Wijk 06 Sumar
+WK073707	Wijk 07 Eastermar
+WK073708	Wijk 08 Noordburgum
+WK073709	Wijk 09 Hurdegaryp
+WK074301	Asten industrie noord
+WK074302	Asten buitengebied oost
+WK074303	Asten noord
+WK074304	Asten oost
+WK074305	Asten zuid
+WK074306	Asten centrum / west
+WK074307	Asten buitengebied west
+WK074308	Heusden wonen
+WK074309	Heusden recreatie
+WK074310	Ommel wonen
+WK074311	Ommel recreatie
+WK074401	Baarle-Nassau
+WK074402	Ulicoten
+WK074403	Castelré
+WK074800	Wijk 00 Bergen op Zoom-Oude stad en omgeving
+WK074801	Wijk 01 Bergen op Zoom-Noord
+WK074802	Wijk 02 Bergen op Zoom-Oost
+WK074803	Wijk 03 Bergen op Zoom-West
+WK074804	Wijk 04 Halsteren
+WK074805	Wijk 05 Lepelstraat
+WK075300	Wijk 00 Best
+WK075500	Wijk 00 Boekel
+WK075501	Wijk 01 Venhorst
+WK075700	Wijk 00 Boxtel
+WK075701	Wijk 01 Lennisheuvel
+WK075702	Wijk 02 Liempde
+WK075730	Esch
+WK075731	Verspr huizen Esch
+WK075800	Breda centrum
+WK075801	Breda noord
+WK075802	Breda oost
+WK075803	Breda zuid-oost
+WK075804	Breda zuid
+WK075805	Breda west
+WK075806	Breda noord-west
+WK075807	Bavel
+WK075808	Ulvenhout
+WK075809	Prinsenbeek
+WK075810	Teteringen
+WK076200	Wijk 00 Deurne
+WK076201	Wijk 01 Vlierden
+WK076202	Wijk 02 Liessel
+WK076203	Wijk 03 Neerkant
+WK076204	Wijk 04 Helenaveen
+WK076500	Wijk 00
+WK076501	Wijk 01
+WK076601	Dongen
+WK076602	's Gravenmoer
+WK077000	Eersel
+WK077001	Duizel
+WK077002	Steensel
+WK077003	Vessem
+WK077004	Wintelre
+WK077005	Knegsel
+WK077211	Centrum
+WK077221	Oud-Stratum
+WK077222	Kortonjo
+WK077223	Putten
+WK077231	De Laak
+WK077232	Doornakkers
+WK077233	Oud-Tongelre
+WK077241	Oud-Woensel
+WK077242	Erp
+WK077243	Begijnenbroek
+WK077251	Ontginning
+WK077252	Achtse Molen
+WK077253	Aanschot
+WK077254	Dommelbeemd
+WK077261	Oud-Strijp
+WK077262	Halve Maan
+WK077263	Meerhoven
+WK077271	Rozenknopje
+WK077272	Oud-Gestel
+WK077273	Gestelse Ontginning
+WK077700	Midden woongebied
+WK077701	Midden Bedrijventerrein
+WK077702	Midden landelijk gebied
+WK077710	Noord woongebied
+WK077711	Noord bedrijventerrein
+WK077712	Noord landelijk gebied
+WK077720	Zuid woongebied
+WK077721	Zuid bedrijventerrein West
+WK077722	Zuid bedrijventerrein Oost
+WK077723	Zuid landelijk gebied
+WK077900	Wijk 00 Raamsdonksveer
+WK077901	Wijk 01 Raamsdonk
+WK077902	Wijk 02 Geertruidenberg
+WK078401	Rijen
+WK078402	Gilze
+WK078403	Hulten
+WK078404	Molenschot
+WK078501	Wijk 01 Goirle-Centrum
+WK078502	Wijk 02 Grobbendonck
+WK078503	Wijk 03 De Groote Akkers
+WK078504	Wijk 04 De Hoge Wal
+WK078505	Wijk 05 Abcoven
+WK078506	Wijk 06 Wildackers
+WK078507	Wijk 07 't Ven
+WK078508	Wijk 08 De Boschkens
+WK078509	Wijk 09 De Hellen
+WK078510	Wijk 10 De Nieuwe Erven
+WK078511	Wijk 11 Hoogeind
+WK078512	Wijk 12 Sportpark Van den Wildenberg
+WK078513	Wijk 13 Bedrijventerrein Tijvoort
+WK078514	Wijk 14 Verspreide huizen Goirle
+WK078520	Wijk 20 Riel
+WK078521	Wijk 21 Bedrijventerrein Riel
+WK078522	Wijk 22 Sportpark De Krim
+WK078523	Wijk 23 Verspriede huizen Riel
+WK079410	Wijk 10 Binnenstad
+WK079411	Wijk 11 Helmond-Oost
+WK079412	Wijk 12 Helmond-Noord
+WK079413	Wijk 13 't Hout
+WK079414	Wijk 14 Brouwhuis
+WK079415	Wijk 15 Helmond-West
+WK079416	Wijk 16 Warande
+WK079417	Wijk 17 Stiphout
+WK079418	Wijk 18 Rijpelberg
+WK079419	Wijk 19 Dierdonk
+WK079421	Wijk 21 Brandevoort
+WK079429	Wijk 29 Industriegebied Zuid
+WK079601	Binnenstad
+WK079602	Zuidoost
+WK079603	Graafsepoort
+WK079604	Muntel / Vliert
+WK079605	Rosmalen-Zuid
+WK079606	Rosmalen-Noord
+WK079607	De Groote Wielen
+WK079608	Empel
+WK079609	Noord
+WK079610	Maaspoort
+WK079611	West
+WK079612	Engelen
+WK079613	Nuland
+WK079614	Vinkel
+WK079701	Wijk 01 Drunen
+WK079702	Wijk 02 Elshout
+WK079703	Wijk 03 Haarsteeg
+WK079704	Wijk 04 Nieuwkuijk
+WK079705	Wijk 05 Vlijmen
+WK079706	Wijk 06 Doeveren
+WK079707	Wijk 07 Hedikthuizen
+WK079708	Wijk 08 Heesbeen
+WK079709	Wijk 09 Herpt
+WK079710	Wijk 10 Heusden
+WK079711	Wijk 11 Oudheusden
+WK079800	Wijk 00 Hilvarenbeek
+WK079801	Wijk 01 Esbeek
+WK079802	Wijk 02 Biest-Houtakker
+WK079803	Wijk 03 Diessen
+WK079804	Wijk 04 Haghorst
+WK080910	Wijk 10 Kaatsheuvel-West
+WK080920	Wijk 20 Kaatsheuvel-Oost
+WK080930	Wijk 30 Loon op Zand
+WK080940	Wijk 40 De Moer
+WK082000	Wijk 00 Nuenen
+WK082001	Wijk 01 Gerwen
+WK082002	Wijk 02 Nederwetten
+WK082300	Wijk 00 Oirschot
+WK082301	Wijk 01 Spoordonk
+WK082302	Wijk 02 Middelbeers en Westelbeers
+WK082303	Wijk 03 Oostelbeers
+WK082401	Verspr.h. westen en noorden Moerg.
+WK082402	Pannenschuur
+WK082403	Heukelom
+WK082404	Buitengebied (Zuid)
+WK082405	Omgeving Vinkenberg / Heuvelstraat
+WK082406	Omgeving George Perklaan
+WK082407	Centrum Moergestel
+WK082408	't Westend / 't Seuverick
+WK082409	Bunders / Levenskerk
+WK082410	Buitengebied Kerkhoven
+WK082411	Waterhoef / Klompven
+WK082412	Omgeving Industrieterrein Kerckhoven Laarakkers
+WK082413	Centrum Oisterwijk
+WK082414	Verspr.h. oosten en zuiden Moerg.
+WK082415	Omgeving Broekzijde
+WK082416	Buitengebied Pannenschuur
+WK082417	Buitengebied Laarakkers
+WK082418	KVL
+WK082419	Sportpark Den Donk e.o.
+WK082420	Haaren
+WK082600	Wijk 00 Oosterhout-Centrum
+WK082601	Wijk 01 Slotjes
+WK082602	Wijk 02 West
+WK082603	Wijk 03 Strijen
+WK082604	Wijk 04 Leijsenakkers
+WK082605	Wijk 05 Oosterheide
+WK082606	Wijk 06 Dommelbergen
+WK082607	Wijk 07 Vrachelen
+WK082608	Wijk 08 Industrieterrein Zuid
+WK082609	Wijk 09 Industrieterrein Noord
+WK082610	Wijk 10 Buitengebied Oosterhout
+WK082611	Wijk 11 Den Hout
+WK082612	Wijk 12 Oosteind
+WK082613	Wijk 13 Dorst
+WK082800	Centrum
+WK082801	Schadewijk
+WK082802	Industrieterreinen-Zuid
+WK082803	Oss-Zuid
+WK082804	Krinkelhoek
+WK082805	Industrieterreinen-Noord
+WK082806	Ruwaard
+WK082807	Ussen
+WK082808	Buitengebied-Noord
+WK082809	Buitengebied-Zuid
+WK082810	Berghem
+WK082811	Haren
+WK082812	Macharen
+WK082813	Megen
+WK082814	Ravenstein
+WK082815	Herpen
+WK082816	Overlangel
+WK082817	Deursen en Dennenburg
+WK082818	Lith
+WK082819	Lithoijen
+WK082820	Oijen
+WK082821	Maren-Kessel
+WK082822	Geffen
+WK084000	Wijk 00 Rucphen
+WK084001	Wijk 01 Sint Willebrord
+WK084002	Wijk 02 Sprundel
+WK084003	Wijk 03 Schijf
+WK084004	Wijk 04 Zegge
+WK084500	Wijk 00 Sint-Michielsgestel
+WK084501	Wijk 01 Gemonde
+WK084502	Wijk 02 Den Dungen
+WK084503	Wijk 03 Berlicum
+WK084504	Wijk 04 Middelrode
+WK084700	Wijk 00 Someren
+WK084701	Wijk 01 Lierop
+WK084702	Wijk 02 Someren-Eind
+WK084703	Wijk 03 Somerense Heide
+WK084709	Wijk 09
+WK084800	Wijk 00 Son
+WK084801	Wijk 01 Breugel
+WK085100	Wijk 00 Steenbergen
+WK085101	Wijk 01 Kruisland
+WK085102	Wijk 02 De Heen
+WK085103	Wijk 03 Dinteloord
+WK085104	Wijk 04 Nieuw-Vossemeer
+WK085199	Groot water
+WK085200	Wijk 00 Monnickendam
+WK085201	Wijk 01 Katwoude
+WK085202	Wijk 02 Marken
+WK085203	Wijk 03 Broek in Waterland
+WK085204	Wijk 04 Ilpendam
+WK085205	Wijk 05 Watergang
+WK085299	Groot water
+WK085510	Binnenstad
+WK085511	Hoogvenne
+WK085512	Armhoef
+WK085513	Jeruzalem
+WK085514	Fatima
+WK085515	Broekhoven
+WK085516	Oerle
+WK085517	Korvel
+WK085518	Trouwlaan - Uitvindersbuurt
+WK085519	Sint Anna
+WK085520	Noordhoek
+WK085521	Spoorzone Zuid
+WK085522	Bouwmeester
+WK085523	De Hasselt
+WK085524	Het Goirke
+WK085525	Groeseind-Hoefstraat
+WK085526	Loven-Besterd
+WK085527	Theresia
+WK085528	Spoorzone Noord
+WK085529	Kanaalzone
+WK085530	Moerenburg
+WK085531	De Leij
+WK085532	Groenewoud
+WK085533	Stappegoor
+WK085534	Bedrijventerrein Het Laar
+WK085535	De Blaak
+WK085536	Zorgvlied
+WK085537	De Reit
+WK085538	Het Zand
+WK085539	Wandelbos Noord
+WK085540	Wandelbos Zuid
+WK085541	De Oude Warande
+WK085542	Stokhasselt
+WK085543	Heikant
+WK085544	Quirijnstok
+WK085545	Ind.terrein Loven
+WK085546	Bosscheweg
+WK085547	Gesworen Hoek
+WK085548	Huibeven
+WK085549	Campenhoef
+WK085550	Heyhoef
+WK085551	Heerevelden
+WK085552	Dongewijk
+WK085553	Tuindorp De Kievit
+WK085554	Leeuwerik
+WK085555	Dalem Noord
+WK085556	Dalem Zuid
+WK085557	Koolhoven
+WK085558	Witbrant
+WK085559	Bedrijventerrein Kraaiven
+WK085560	Bedrijventerrein Vossenberg
+WK085561	De Katsbogten
+WK085562	Buitengebied Tilburg Zuid-Oost
+WK085563	Buitengebied Tilburg Zuid-West
+WK085564	Buitengebied Tilburg Noord-Oost
+WK085565	Buitengebied Tilburg Noord-West
+WK085566	Berkel-Enschot
+WK085567	Udenhout
+WK085568	Biezenmortel
+WK085800	Wijk 00 Valkenswaard
+WK085801	Wijk 01 Kloosterakkers en Dommelen
+WK085802	Wijk 02 Borkel en Schaft
+WK086100	Wijk 00 Veldhoven
+WK086101	Wijk 01 Noordelijk Woongebied
+WK086102	Wijk 02 Oerle
+WK086500	Wijk 00 Vught
+WK086501	Wijk 01 Vught-Zuid
+WK086502	Wijk 02 Cromvoirt
+WK086503	Wijk 03 Helvoirt
+WK086600	Wijk 00 Waalre
+WK086700	Waalwijk
+WK086701	Sprang-Capelle
+WK086702	Waspik
+WK087300	Wijk 00 Hoogerheide en Woensdrecht
+WK087301	Wijk 01 Huijbergen
+WK087302	Wijk 02 Ossendrecht
+WK087303	Wijk 03 Putte
+WK087900	Wijk 00 Zundert
+WK087901	Wijk 01 Klein - Zundert
+WK087902	Wijk 02 Wernhout
+WK087903	Wijk 03 Achtmaal
+WK087904	Wijk 04 Rijsbergen
+WK088000	Wijk 00 Wormer
+WK088001	Wijk 01 Wijdewormer
+WK088002	Wijk 02 Jisp
+WK088200	Wijk 00 Schaesberg
+WK088201	Wijk 01 Nieuwenhagen
+WK088202	Wijk 02 Ubach over Worms
+WK088800	Wijk 00 Beek - Spaubeek
+WK088801	Wijk 01 Beek-Zuid
+WK088900	Wijk 00 Reuver
+WK088901	Wijk 01 Beesel
+WK089301	Aijen
+WK089302	Oud-Bergen
+WK089303	Nieuw-Bergen
+WK089304	Afferden
+WK089305	Siebengewald
+WK089306	Well
+WK089307	Wellerlooi
+WK089901	Wijk 01 Brunssum-West
+WK089902	Wijk 02 Brunssum-Noord
+WK089903	Wijk 03 Brunssum-Oost
+WK089904	Wijk 04 Brunssum-Zuid
+WK089905	Wijk 05 Brunssum-Centrum
+WK090700	Wijk 00 Milsbeek
+WK090701	Wijk 01 Ottersum
+WK090702	Wijk 02 Ven-Zelderheide
+WK090703	Wijk 03 Gennep
+WK090704	Wijk 04 Heijen
+WK091710	Wijk 10 Maria Gewanden en Terschuren
+WK091711	Wijk 11 Mariarade
+WK091712	Wijk 12 Hoensbroek-De Dem
+WK091713	Wijk 13 Nieuw Lotbroek
+WK091714	Wijk 14 De Koumen
+WK091720	Wijk 20 Vrieheide-De Stack
+WK091721	Wijk 21 Heerlerheide-Passart
+WK091722	Wijk 22 Heksenberg
+WK091723	Wijk 23 De Hei
+WK091724	Wijk 24 Rennemig-Beersdal
+WK091730	Wijk 30 Zeswegen-Nieuw Husken
+WK091731	Wijk 31 Schandelen-Grasbroek
+WK091732	Wijk 32 Meezenbroek-Schaesbergerveld
+WK091733	Wijk 33 Heerlen-Centrum
+WK091734	Wijk 34 Eikenderveld
+WK091735	Wijk 35 Woonboulevard-Ten Esschen
+WK091736	Wijk 36 Welten-Benzenrade
+WK091737	Wijk 37 Bekkerveld
+WK091738	Wijk 38 Caumerveld-Douve Weien
+WK091739	Wijk 39 Molenberg
+WK091740	Wijk 40 Heerlerbaan-Centrum
+WK091741	Wijk 41 Heerlerbaan-Schil
+WK091742	Wijk 42 De Beitel
+WK092800	Wijk 00 Kerkrade-West
+WK092801	Wijk 01 Kerkrade-Oost
+WK092802	Wijk 02 Kerkrade-Noord
+WK093500	Wijk 00 Centrum
+WK093501	Wijk 01 Buitenwijk Zuidwest
+WK093502	Wijk 02 Buitenwijk West
+WK093503	Wijk 03 Buitenwijk Noordwest
+WK093504	Wijk 04 Buitenwijk Oost
+WK093505	Wijk 05 Buitenwijk Noordoost
+WK093506	Wijk 06 Buitenwijk Zuidoost
+WK093800	Wijk 00 Meerssen
+WK093801	Wijk 01 Ulestraten
+WK093802	Wijk 02 Bunde - Geulle
+WK094400	Wijk 00 Mook
+WK094401	Wijk 01 Middelaar
+WK094601	Wijk 01 Nederweert
+WK094602	Wijk 02 Budschop
+WK094603	Wijk 03 Ospel
+WK094604	Wijk 04 Nederweert-Eind
+WK094605	Wijk 05 Leveroy
+WK095700	Wijk 00 Centrum
+WK095701	Wijk 01 Roermond-Oost
+WK095702	Wijk 02 Roermond-Zuid
+WK095703	Wijk 03 Maasniel
+WK095704	Wijk 04 Donderberg
+WK095705	Wijk 05 Hoogvonderen
+WK095706	Wijk 06 Asenray
+WK095707	Wijk 07 Herten
+WK095708	Wijk 08 Swalmen
+WK095709	Wijk 09 Maasplassen
+WK096500	Wijk 00 Simpelveld
+WK096501	Wijk 01 Bocholtz
+WK097100	Wijk 00 Stein
+WK097101	Wijk 01 Elsloo
+WK097102	Wijk 02 Urmond
+WK098100	Wijk 00 Vijlen-Lemiers
+WK098101	Wijk 01 Vaals
+WK098311	Wijk 11 Venlo-Centrum
+WK098312	Wijk 12 Venlo-Zuid
+WK098313	Wijk 13 Venlo-Oost-Noord
+WK098314	Wijk 14 Venlo-Noord
+WK098315	Wijk 15 Venlo-Oost-Zuid
+WK098316	Wijk 16 Het Ven
+WK098321	Wijk 21 Blerick-Midden
+WK098322	Wijk 22 Blerick-Noord
+WK098323	Wijk 23 Blerick-Zuid
+WK098324	Wijk 24 Vossener
+WK098325	Wijk 25 Klingerberg
+WK098326	Wijk 26 Hout-Blerick
+WK098327	Wijk 27 Boekend
+WK098328	Wijk 28 Trade-Port
+WK098331	Wijk 31 Tegelen-Centrum
+WK098332	Wijk 32 Op de Hei
+WK098335	Wijk 35 Steyl
+WK098341	Wijk 41 Velden
+WK098343	Wijk 43 Lomm
+WK098344	Wijk 44 Arcen
+WK098351	Wijk 51 Belfeld
+WK098401	Heide
+WK098402	Ysselsteyn
+WK098403	Merselo
+WK098404	Vredepeel
+WK098405	Smakt
+WK098406	Oostrum
+WK098407	Oirlo
+WK098408	Castenray
+WK098409	Veulen
+WK098410	Leunen
+WK098411	Centrum
+WK098412	Oost
+WK098413	West
+WK098414	Vlakwater
+WK098415	Veltum
+WK098416	Brukske
+WK098417	Landweert
+WK098418	Smakterheide
+WK098419	Brabander
+WK098420	St. Antoniusveld
+WK098421	Wanssum
+WK098422	Geijsteren
+WK098423	Blitterswijck
+WK098601	Wijk 01 Voerendaal
+WK098602	Wijk02 Kunrade
+WK098603	Wijk 03 Ubachsberg
+WK098604	Wijk 04 Klimmen
+WK098605	Wijk 05 Ransdaal
+WK098609	Wijk 09 Verspreide huizen Voerendaal
+WK098801	Wijk 01 Boshoven
+WK098802	Wijk 02 Laar en Hushoven
+WK098803	Wijk 03 Molenakker en Kampershoek
+WK098811	Wijk 11 Weert-Centrum
+WK098812	Wijk 12 Biest
+WK098813	Wijk 13 Groenewoud
+WK098814	Wijk 14 Fatima
+WK098821	Wijk 21 Keent
+WK098822	Wijk 22 Moesel
+WK098823	Wijk 23 Graswinkel
+WK098824	Wijk 24 Leuken
+WK098825	Wijk 25 Kazernelaan
+WK098831	Wijk 31 Altweerterheide
+WK098832	Wijk 32 Tungelroy
+WK098833	Wijk 33 Swartbroek
+WK098834	Wijk 34 Stramproy
+WK099400	Wijk 00: Valkenburg
+WK099401	Wijk 01: Houthem - Sint Gerlach
+WK099402	Wijk 02: Schin op Geul - Oud-Valkenburg
+WK099403	Wijk 03: Sibbe - IJzeren
+WK099404	Wijk 04: Berg en Terblijt - Vilt
+WK099405	Wijk 05: Walem
+WK099501	Zuiderzeewijk
+WK099502	Atolwijk
+WK099503	Boswijk
+WK099504	Waterwijk-Landerijen
+WK099505	Bolder
+WK099506	Kustwijk
+WK099507	Havendiep
+WK099508	Lelystad-Haven
+WK099509	Stadshart
+WK099510	Buitengebied
+WK099511	Warande
+WK099599	Groot water
+WK099899	Buitenland
+WK150700	Wijk 00 Griendtsveen
+WK150701	Wijk 01 America
+WK150702	Wijk 02 Meterik
+WK150703	Wijk 03 Hegelsom
+WK150704	Wijk 04 Horst
+WK150705	Wijk 05 Melderslo
+WK150706	Wijk 06 Broekhuizen
+WK150707	Wijk 07 Lottum
+WK150708	Wijk 08 Grubbenvorst
+WK150709	Wijk 09 Broekhuizen
+WK150710	Wijk 10 Sevenum
+WK150711	Wijk 11 Kronenberg
+WK150712	Wijk 12 Evertsoord
+WK150713	Wijk 13 Meerlo
+WK150714	Wijk 14 Tienray
+WK150715	Wijk 15 Swolgen
+WK150900	Wijk 00 Ulft-Etten
+WK150901	Wijk 01 Overig Gendringen
+WK150902	Wijk 02 Silvolde-Terborg
+WK150903	Wijk 03 Varsseveld
+WK152501	Voorhout Oude Dorp
+WK152502	Voorhout Oosthout
+WK152503	Voorhout Hooghkamer
+WK152504	Voorhout Buiten
+WK152511	Sassenheim Midden
+WK152512	Sassenheim Oost
+WK152513	Sassenheim Zuid
+WK152514	Sassenheim West
+WK152515	Sassenheim buiten
+WK152521	Warmond
+WK152522	Warmond buiten
+WK158100	Doorn
+WK158101	Driebergen
+WK158102	Leersum
+WK158103	Amerongen
+WK158104	Maarn
+WK158601	Wijk 01 Lichtenvoorde
+WK158602	Wijk 02 Harreveld
+WK158603	Wijk 03 Zieuwewnt
+WK158604	Wijk 04 Lievelde
+WK158605	Wijk 05 Vragender
+WK158606	Wijk 06 Groenlo
+WK158607	Wijk 07 Marienvelde
+WK159801	Obdam
+WK159802	Hensbroek
+WK159803	Spierdijk
+WK159804	Zuidermeer
+WK159805	Berkhout
+WK159806	Ursem
+WK159807	De Goorn
+WK159808	Avenhorn
+WK159809	Scharwoude
+WK159810	Oudendijk
+WK159899	Groot water
+WK162111	Wijk 11 Bergschenhoek
+WK162112	Wijk 12 De Ackers
+WK162113	Wijk 13 Boterdorp
+WK162114	Wijk 14 Wilderszijde
+WK162115	Wijk 15 Oosteindsche Polder
+WK162121	Wijk 21 Berkel
+WK162122	Wijk 22 Noordpolder
+WK162123	Wijk 23 Meerpolder
+WK162124	Wijk 24 Noordeinde
+WK162125	Wijk 25 Zuidpolder
+WK162126	Wijk 26 De Wadden
+WK162127	Wijk 27 Westpolder
+WK162128	Wijk 28 Rodenrijs
+WK162131	Wijk 31 Bleiswijk
+WK162132	Wijk 32 Hoekeindse Zoom
+WK162133	Wijk 33 Bleiswijk Buiten
+WK164000	Heythuysen
+WK164001	Heibloem
+WK164002	Roggel
+WK164003	Neer
+WK164004	Nunhem
+WK164005	Haelen
+WK164006	Buggenum
+WK164007	Horn
+WK164008	Baexem
+WK164009	Kelpen-Oler
+WK164010	Grathem
+WK164011	Ell
+WK164012	Haler
+WK164013	Hunsel
+WK164014	Neeritter
+WK164015	Ittervoort
+WK164100	Wijk 00 Maasbracht
+WK164101	Wijk 01 Linne
+WK164102	Wijk 02 Stevensweert
+WK164103	Wijk 03 Ohé en Laak
+WK164104	Wijk 04 Thorn
+WK164105	Wijk 05 Heel
+WK164106	Wijk 06 Beegden
+WK164107	Wijk 07 Wessem
+WK165200	Wijk 00 Gemert-Centrum
+WK165201	Wijk 01 Gemert-Noord
+WK165202	Wijk 02 Gemert-Oost
+WK165203	Wijk 03 Handel
+WK165204	Wijk 04 De Mortel
+WK165205	Wijk 05 Elsendorp
+WK165206	Wijk 06 Bakel
+WK165207	Wijk 07 Milheeze
+WK165208	Wijk 08 De Rips
+WK165501	Wijk 01 Oud Gastel
+WK165502	Wijk 02 Stampersgat
+WK165503	Wijk 03 Oudenbosch
+WK165504	Wijk 04 Hoeven
+WK165505	Wijk 05 Bosschenhoofd
+WK165800	Wijk 00 Heeze
+WK165801	Wijk 01 Leende
+WK165802	Wijk 02 Leenderstrijp
+WK165803	Wijk 03 Sterksel
+WK165900	Wijk 00 Beek en Donk
+WK165901	Wijk 01 Aarle-Rixtel
+WK165902	Wijk 02 Lieshout
+WK165903	Wijk 03 Mariahout
+WK166700	Wijk 00 Reusel
+WK166701	Wijk 01 Hooge Mierde
+WK166702	Wijk 02 Lage Mierde
+WK166703	Wijk 03 Hulsel
+WK166901	Montfort
+WK166902	Sint Odiliënberg
+WK166903	Melick
+WK166904	Posterholt
+WK166905	Herkenbosch
+WK166906	Vlodrop
+WK167400	Wijk 00 Centrum
+WK167401	Wijk 01 Oost
+WK167402	Wijk 02 Noord
+WK167403	Wijk 03 West
+WK167404	Wijk 04 Groot Kroeven
+WK167405	Wijk 05 Langdonk
+WK167406	Wijk 06 Kortendijk
+WK167407	Wijk 07 Tolberg
+WK167408	Wijk 08 Industriegebieden
+WK167410	Wijk 10 Nispen
+WK167411	Wijk 11 Wouw
+WK167412	Wijk 12 Heerle
+WK167413	Wijk 13 Moerstraten
+WK167414	Wijk 14 Wouwse Plantage
+WK167600	Wijk 00 Zierikzee
+WK167601	Wijk 01 Brouwershaven
+WK167602	Wijk 02 Zonnemaire
+WK167603	Wijk 03 Dreischor
+WK167604	Wijk 04 Noordgouwe
+WK167605	Wijk 05 Bruinisse
+WK167606	Wijk 06 Nieuwerkerk
+WK167607	Wijk 07 Oosterland
+WK167608	Wijk 08 Ouwerkerk
+WK167609	Wijk 09 Scharendijke
+WK167610	Wijk 10 Kerkwerve
+WK167611	Wijk 11 Ellemeet
+WK167612	Wijk 12 Haamstede
+WK167613	Wijk 13 Renesse
+WK167614	Wijk 14 Noordwelle
+WK167615	Wijk 15 Serooskerke
+WK167699	Groot water
+WK168000	Wijk 00 Annen
+WK168001	Wijk 01 Eext
+WK168002	Wijk 02 Anloo
+WK168003	Wijk 03 Gasteren
+WK168004	Wijk 04 Anderen
+WK168005	Wijk 05 Schipborg
+WK168006	Wijk 06 Eexterveen
+WK168007	Wijk 07 Spijkerboor
+WK168008	Wijk 08 Nieuw-Annerveen
+WK168009	Wijk 09 Oud-Annerveen
+WK168011	Wijk 11 Annerveenschekanaal
+WK168012	Wijk 12 Eexterveenschekanaal
+WK168013	Wijk 13 Eexterzandvoort
+WK168014	Wijk 14 Gasselte
+WK168015	Wijk 15 Gasselternijveen
+WK168016	Wijk 16 Gasselternijveenschemond
+WK168017	Wijk 17 Gieten
+WK168018	Wijk 18 Gieterveen
+WK168019	Wijk 19 Rolde
+WK168020	Wijk 20 Grolloo
+WK168021	Wijk 21 Ekehaar
+WK168100	Valthe
+WK168101	Valthermond
+WK168102	Westdorp
+WK168103	Zandberg
+WK168179	1e Exloërmond
+WK168180	2e Exloërmond
+WK168181	2e Valthermond
+WK168182	Borger
+WK168183	Bronneger
+WK168184	Bronnegerveen
+WK168185	Buinen
+WK168186	Buinerveen
+WK168187	Drouwen
+WK168188	Drouwenermond
+WK168189	Drouwenerveen
+WK168190	Ees
+WK168191	Eesergroen
+WK168192	Eeserveen
+WK168193	Ellertshaar
+WK168194	Exloërveen
+WK168195	Exloo
+WK168196	Klijndijk
+WK168197	Nieuw-Buinen
+WK168198	Odoorn
+WK168199	Odoornerveen
+WK169000	Wijk 00 Zuidwolde
+WK169001	Wijk 01 Alteveer
+WK169002	Wijk 02 Kerkenveld
+WK169003	Wijk 03 Drogteropslagen
+WK169004	Wijk 04 Linde
+WK169005	Wijk 05 Fort
+WK169006	Wijk 06 Veeningen
+WK169007	Wijk 07 Echten
+WK169008	Wijk 08 Ruinen
+WK169009	Wijk 09 Eursinge
+WK169010	Wijk 10 Ansen
+WK169011	Wijk 11 Ruinerwold
+WK169012	Wijk 12 Koekange
+WK169013	Wijk 13 De Wijk
+WK169500	Wijk 00 Kortgene
+WK169501	Wijk 01 Colijnsplaat
+WK169502	Wijk 02 Kats
+WK169503	Wijk 03 Kamperland
+WK169504	Wijk 04 Wissenkerke
+WK169505	Wijk 05 Geersdijk
+WK169599	Groot water
+WK169600	Wijk 00 's-Graveland
+WK169601	Wijk 01 Kortenhoef
+WK169602	Wijk 02 Ankeveen
+WK169603	Wijk 03 Loosdrecht
+WK169604	Wijk 04 Nieuw-Loosdrecht
+WK169605	Wijk 05 Breukeleveen
+WK169606	Wijk 06 Nederhorst den Berg
+WK169900	Wijk 00 Roden
+WK169901	Wijk 01 Roden
+WK169903	Wijk 03 Norg
+WK169904	Wijk 04 Norg
+WK169906	Wijk 06 Peize
+WK170001	Vriezenveen (kern)
+WK170002	Westerhaar-Vriezenveensewijk
+WK170003	Den Ham
+WK170004	Vroomshoop
+WK170005	Buitengebied Vriezenveen Noord
+WK170006	Buitengebied Vriezenveen Zuid
+WK170100	Wijk 00 Diever
+WK170101	Wijk 01 Wapse
+WK170102	Wijk 02 Zorgvlied
+WK170103	Wijk 03 Dwingeloo
+WK170104	Wijk 04 Lhee
+WK170105	Wijk 05 Eemster
+WK170106	Wijk 06 Geeuwenbrug
+WK170107	Wijk 07 Dieverbrug
+WK170108	Wijk 08 Havelte
+WK170109	Wijk 09 Uffelte
+WK170110	Wijk 10 Wapserveen
+WK170111	Wijk 11 Vledder
+WK170112	Wijk 12 Frederiksoord
+WK170113	Wijk 13 Nijensleek
+WK170114	Wijk 14 Vledderveen
+WK170115	Wijk 15 Wilhelminaoord
+WK170116	Wijk 16 Doldersum
+WK170117	Wijk 17 Boschoord
+WK170500	Bemmel
+WK170501	Gendt
+WK170502	Huissen
+WK170503	Loo Gld
+WK170504	Angeren
+WK170505	Doornenburg
+WK170506	Haalderen
+WK170507	Ressen
+WK170600	Wijk 00 Budel
+WK170601	Wijk 01 Schoot
+WK170602	Wijk 02 Dorplein
+WK170603	Wijk 03 Maarheeze
+WK170604	Wijk 04 Soerendonk
+WK170605	Wijk 05 Gastel
+WK170800	Steenwijk
+WK170802	Oldemarkt
+WK170803	Kalenberg
+WK170804	Kuinre
+WK170805	Blankenham
+WK170806	Scheerwolde
+WK170807	Vollenhove
+WK170808	Sint Jansklooster
+WK170810	Belt-Schutsloot
+WK170811	Wanneperveen
+WK170816	Blokzijl
+WK170817	Giethoorn
+WK170818	Zuidveen
+WK170819	Onna
+WK170820	Kallenkote
+WK170821	Eesveen
+WK170822	De Bult
+WK170823	Baars
+WK170824	Witte Paarden
+WK170825	De Pol
+WK170826	Willemsoord
+WK170827	Marijenkampen
+WK170828	Tuk
+WK170829	Steenwijkerwold
+WK170830	Basse
+WK170831	Paasloo
+WK170832	IJsselham
+WK170833	Ossenzijl
+WK170834	Wetering
+WK170835	Nederland
+WK170836	Baarlo
+WK170899	Groot water
+WK170900	Wijk 00 Zevenbergen
+WK170901	Wijk 01 Zevenbergschen Hoek
+WK170902	Wijk 02 Langeweg
+WK170903	Wijk 03 Klundert
+WK170904	Wijk 04 Moerdijk
+WK170905	Wijk 05 Noordhoek
+WK170906	Wijk 06 Standdaarbuiten
+WK170907	Wijk 07 Fijnaart
+WK170908	Wijk 08 Heijningen
+WK170909	Wijk 09 Willemstad
+WK170910	Wijk 10 Helwijk
+WK170999	Groot water
+WK171101	Wijk 01 Susteren
+WK171102	Wijk 02 Dieteren
+WK171103	Wijk 03 Heide
+WK171104	Wijk 04 Roosteren
+WK171105	Wijk 05 Echt
+WK171106	Wijk 06 Maria Hoop
+WK171107	Wijk 07 Peij
+WK171108	Wijk 08 Slek
+WK171109	Wijk 09 Nieuwstadt
+WK171110	Wijk 10 Sint Joost
+WK171111	Wijk 11 Koningsbosch
+WK171400	Wijk 00 Sluis
+WK171401	Wijk 01 Retranchement
+WK171402	Wijk 02 Aardenburg
+WK171403	Wijk 03 Eede
+WK171404	Wijk 04 Sint Kruis
+WK171405	Wijk 05 Oostburg
+WK171406	Wijk 06 Zuidzande
+WK171407	Wijk 07 Cadzand
+WK171408	Wijk 08 Nieuwvliet
+WK171409	Wijk 09 Groede
+WK171410	Wijk 10 Breskens
+WK171411	Wijk 11 Hoofdplaat
+WK171412	Wijk 12 IJzendijke
+WK171413	Wijk 13 Schoondijke
+WK171414	Wijk 14 Waterlandkerkje
+WK171499	Groot water
+WK171901	Drimmelen
+WK171902	Made
+WK171903	Terheijden
+WK171904	Wagenberg
+WK171905	Hooge Zwaluwe en Zevenbergschen Hoek
+WK171906	Lage Zwaluwe
+WK172101	Kern Heesch
+WK172102	Kern Heeswijk-Dinther
+WK172103	Kern Nistelrode
+WK172104	Buitengebied Heesch
+WK172105	Buitengebied Heeswijk-Dinther
+WK172106	Buitengebied Nistelrode
+WK172301	Alphen
+WK172302	Chaam
+WK172303	Strijbeek
+WK172304	Galder
+WK172305	Ulvenhout AC
+WK172306	Bavel AC
+WK172400	Wijk 00 Bergeijk 't Hof
+WK172401	Wijk 01 Weebosch
+WK172402	Wijk 02 Luyksgestel
+WK172403	Wijk 03 Riethoven
+WK172404	Wijk 04 Westerhoven
+WK172405	Wijk 05 Bergeijk 't Loo
+WK172406	Wijk 06 Buitengebied
+WK172800	Wijk 00 Bladel
+WK172801	Wijk 01 Netersel
+WK172802	Wijk 02 Hapert
+WK172803	Wijk 03 Hoogeloon
+WK172804	Wijk 04 Casteren
+WK172900	Wijk 00 Gulpen
+WK172901	Wijk 01 Wijlre
+WK172902	Wijk 02 Eys
+WK172903	Wijk 03 Wittem
+WK172904	Wijk 04 Mechelen
+WK172905	Wijk 05 Epen
+WK172906	Wijk 06 Slenaken
+WK173000	Wijk 00 Zuidlaren
+WK173001	Wijk 01 De Groeve
+WK173002	Wijk 02 Zuidlaarderveen
+WK173003	Wijk 03 Midlaren
+WK173004	Wijk 04 Westlaren
+WK173005	Wijk 05 Schuilingsoord
+WK173006	Wijk 06 Paterswolde
+WK173007	Wijk 07 Eelde
+WK173008	Wijk 08 Eelderwolde
+WK173009	Wijk 09 Vries
+WK173010	Wijk 10 Donderen
+WK173011	Wijk 11 Bunne
+WK173012	Wijk 12 Yde
+WK173013	Wijk 13 Tynaarlo
+WK173014	Wijk 14 Zeegse
+WK173015	Wijk 15 Zeijen
+WK173100	Wijk 00 Beilen
+WK173101	Wijk 01 Hijken
+WK173102	Wijk 02 Hooghalen
+WK173103	Wijk 03 Wijster
+WK173104	Wijk 04 Spier
+WK173105	Wijk 05 Drijber
+WK173106	Wijk 06 Smilde
+WK173107	Wijk 07 Bovensmilde
+WK173108	Wijk 08 Hoogersmilde
+WK173109	Wijk 09 Westerbork
+WK173110	Wijk 10 Elp
+WK173111	Wijk 11 Witteveen
+WK173112	Wijk 12 Nieuw-Balinge
+WK173113	Wijk 13 Nieuweroord
+WK173114	Wijk 14 Zwiggelte
+WK173115	Wijk 15 Orvelte
+WK173116	Wijk 16 De Broekstreek
+WK173401	Buitengebied Elst
+WK173402	Elst-Zuid
+WK173403	Elst-Noord
+WK173404	De Aam
+WK173405	Westeraam
+WK173406	Elst-Oost
+WK173407	Oosterhout
+WK173408	Slijk-Ewijk
+WK173409	Herveld
+WK173410	Andelst
+WK173411	Kern Zetten
+WK173412	Buitengebied Zetten
+WK173413	Hemmen
+WK173414	Randwijk
+WK173415	Kern Heteren
+WK173416	Buitengebied Heteren
+WK173417	Valburg
+WK173418	Driel
+WK173500	Wijk 00 Goor
+WK173501	Wijk 01 De Whee II
+WK173502	Wijk 02 Markelo
+WK173503	Wijk 03 Verspreide huizen Kerspel en omgeving
+WK173504	Wijk 04 Elsen
+WK173505	Wijk 05 Diepenheim
+WK173506	Wijk 06 Delden
+WK173507	Wijk 07 Overig Delden
+WK173508	Wijk 08 Hengevelde
+WK173509	Wijk 09 Bentelo
+WK174000	Wijk 00 Kesteren
+WK174001	Wijk 01 Echteld
+WK174002	Wijk 02 Dodewaard
+WK174200	Wijk 00 Stad Rijssen
+WK174202	Wijk 02 Buitengebied Rijssen
+WK174203	Wijk 03 Holten
+WK174204	Wijk 04 Bedrijventerrein Holten
+WK174205	Wijk 05 Buitengebied Holten
+WK174207	Wijk 07 Bedrijventerrein Rijssen
+WK174208	Wijk 08 Recreatiegebied De Borkeld
+WK174209	Wijk 09 Stadsrand Rijssen Noord
+WK174210	Wijk 10 Stadsrand Rijssen Zuid
+WK174211	Wijk 11 Stadsrand Rijssen Oost
+WK177100	Wijk 00 Geldrop
+WK177101	Wijk 01 Mierlo
+WK177301	Wijk 01 Olst
+WK177302	Wijk 02 Wijhe
+WK177303	Wijk 03 Wesepe
+WK177304	Wijk 04 Boskamp
+WK177305	Wijk 05 Boerhaar
+WK177306	Wijk 06 Welsum
+WK177307	Wijk 07 Den Nul
+WK177308	Wijk 08 Eikelhof
+WK177309	Wijk 09 Elshof
+WK177310	Wijk 10 Marle
+WK177311	Wijk 11 Middel
+WK177312	Wijk 12 Herxen
+WK177410	Wijk 10 Denekamp
+WK177411	Wijk 11 Lattrop-Breklenkamp
+WK177412	Wijk 12 Tilligte
+WK177413	Wijk 13 Agelo
+WK177414	Wijk 14 Noord Deurningen
+WK177415	Wijk 15 Ootmarsum
+WK177416	Wijk 16 Weerselo
+WK177417	Wijk 17 Rossum
+WK177418	Wijk 18 Saasveld
+WK177419	Wijk 19 Deurningen
+WK177420	Wijk 20 Nutter
+WK177421	Wijk 21 Oud Ootmarsum
+WK178301	Wijk 01 Naaldwijk
+WK178302	Wijk 02 Honselersdijk
+WK178303	Wijk 03 Maasdijk
+WK178304	Wijk 04 's-Gravenzande
+WK178305	Wijk 05 Monster
+WK178306	Wijk 06 Wateringen
+WK178307	Wijk 07 De Lier
+WK178308	Wijk 08 Kwintsheul
+WK178309	Wijk 09 Poeldijk
+WK178310	Wijk 10 Ter Heijde
+WK178399	Groot water
+WK184200	Wijk 00 Schipluiden
+WK184201	Wijk 01 Maasland
+WK185900	Wijk 00 Borculo
+WK185901	Wijk 01 Eibergen
+WK185902	Wijk 02 Beltrum
+WK185903	Wijk 03 Neede
+WK185904	Wijk 04 Ruurlo
+WK187600	Wijk 00 Hengelo
+WK187601	Wijk 01 Zelhem
+WK187602	Wijk 02 Vorden
+WK187603	Wijk 03 Steenderen
+WK187604	Wijk 04 Hummelo en Keppel
+WK188300	Wijk 00 Limbrichterveld
+WK188301	Wijk 01 Sittard
+WK188302	Wijk 02 Overhoven
+WK188303	Wijk 03 Munstergeleen
+WK188304	Wijk 04 Guttecoven
+WK188305	Wijk 05 Geleen
+WK188306	Wijk 06 Holtum-Born
+WK188307	Wijk 07 Obbicht en Papenhoven
+WK188400	Wijk 00 Roelofarendsveen
+WK188401	Wijk 01 Overig Alkemade
+WK188402	Wijk 02 Woubrugge
+WK188403	Wijk 03 Rijnsaterwoude
+WK188404	Wijk 04 Leimuiden
+WK189100	Wijk 00 Centrum
+WK189101	Wijk 01 Oost
+WK189102	Wijk 02 Zuid
+WK189103	Wijk 03 West
+WK189201	Moerkapelle wijk 01
+WK189202	Zevenhuizen wijk 02
+WK189203	Moordrecht wijk 03
+WK189204	Nieuwerkerk aan den IJssel wijk 04
+WK189400	Wijk 00 Grashoek-Koningslust
+WK189401	Wijk 01 Panningen
+WK189402	Wijk 02 Kessel
+WK189403	Wijk 03 Maasbree
+WK189404	Wijk 04 Baarlo
+WK189405	Wijk 05 Meijel
+WK189500	Wijk 00 Winschoten
+WK189501	Wijk 01 Finsterwolde
+WK189502	Wijk 02 Drieborg
+WK189503	Wijk 03 Beerta
+WK189504	Wijk 04 Nieuw-Beerta
+WK189505	Wijk 05 Nieuweschans
+WK189506	Wijk 06 Scheemda-Heiligerlee
+WK189507	Wijk 01 Westerlee
+WK189508	Wijk 02 Noord
+WK189509	Wijk 03 Midwolda
+WK189510	Wijk 04 Nieuwolda
+WK189599	Groot water
+WK189600	Wijk 00 Genemuiden
+WK189601	Wijk 01 Kamperzeedijk
+WK189602	Wijk 02 Hasselt
+WK189603	Wijk 03 Landelijk gebied Hasselt
+WK189604	Wijk 04 Zwartsluis
+WK189605	Wijk 05 Mastenbroek
+WK189699	Groot water
+WK190000	Wijk 00 Bolsward
+WK190001	Wijk 01 Sneek
+WK190002	Wijk 02 Nijefurd
+WK190003	Wijk 03 Koudum
+WK190004	Wijk 04 Hemelum
+WK190005	Wijk 05 IJlst
+WK190006	Wijk 06 Zuid IJlst
+WK190007	Wijk 07 Oost IJlst
+WK190008	Wijk 08 West IJlst
+WK190009	Wijk 09 Oosthem
+WK190010	Wijk 10 Noordwest IJlst
+WK190011	Wijk 11 Zuidoost IJlst
+WK190012	Wijk 12 Woudsend
+WK190013	Wijk 13 Bouwhoek
+WK190014	Wijk 14 Weidestreek Oost
+WK190015	Wijk 15 Weidestreek West
+WK190016	Wijk 16 Weidestreek Zuid
+WK190017	Wijk 17 Makkum
+WK190018	Wijk 18 Weidestreek Zuidwest
+WK190019	Wijk 19 Boarnsterhim
+WK190020	Wijk 20 Littenseradiel
+WK190099	Groot water
+WK190101	Bodegraven-Noord
+WK190102	Bodegraven-Zuid
+WK190103	Nieuwerbrug aan den Rijn
+WK190104	Reeuwijk-Dorp
+WK190105	Reeuwijk-Brug
+WK190106	Driebruggen
+WK190107	Waarder
+WK190300	Wijk 00 Eijsden
+WK190301	Wijk 01 Gronsveld
+WK190302	Wijk 02 Margraten
+WK190303	Wijk 03 Cadier en Keer
+WK190304	Wijk 04 Sint Geertruid
+WK190305	Wijk 05 Mheer - Noorbeek
+WK190401	Wijk 01 Maarssen
+WK190402	Wijk 02 Breukelen
+WK190403	Wijk 03 Loenen aan de Vecht
+WK190404	Wijk 04 Nieuwer Ter Aa
+WK190405	Wijk 05 Kockengen
+WK190406	Wijk 06 Vreeland
+WK190407	Wijk 07 Tienhoven
+WK190408	Wijk 08 Nigtevecht
+WK190409	Wijk 09 Nieuwersluis
+WK190410	Wijk 10 Loenersloot
+WK190411	Wijk 11 Oud Zuilen
+WK190412	Wijk 12 Maarssenbroek
+WK191101	Anna Paulowna
+WK191102	Breezand
+WK191103	Wieringerwaard
+WK191104	Westerland
+WK191105	Hippolytushoef
+WK191106	Den Oever
+WK191107	Wieringerwerf
+WK191108	Kreileroord
+WK191109	Slootdorp
+WK191110	Middenmeer
+WK191111	Kolhorn
+WK191112	Barsingerhorn
+WK191113	Haringhuizen
+WK191114	Lutjewinkel
+WK191115	Winkel
+WK191116	Nieuwe Niedorp
+WK191117	't Veld
+WK191118	Zijdewind
+WK191119	Oude Niedorp
+WK191199	Groot water
+WK191601	De Zijde / Duivenvoorde / Park Veursehout
+WK191602	Prinsenhof
+WK191603	't Lien / De Rietvink
+WK191604	Stompwijk
+WK191605	Leidschendam - Zuid en omgeving
+WK191606	De Heuvel / Amstelwijk
+WK191607	Damsigt en omgeving
+WK191608	Essesteijn
+WK191609	Voorburg Midden
+WK191610	Bovenveen
+WK191611	Voorburg Noord
+WK191612	Voorburg West / Park Leeuwenbergh
+WK191613	Voorburg Oud
+WK192400	Goedereede
+WK192401	Ouddorp
+WK192402	Stellendam
+WK192403	Middelharnis
+WK192404	Ooltgensplaat
+WK192405	Den Bommel
+WK192406	Oude-Tonge
+WK192407	Dirksland
+WK192408	Melissant
+WK192409	Herkingen
+WK192410	Sommelsdijk
+WK192411	Nieuwe-Tonge
+WK192412	Stad aan 't Haringvliet
+WK192413	Achthuizen
+WK192499	Groot water
+WK192601	Pijnacker
+WK192602	Nootdorp
+WK192603	Delfgauw
+WK193001	Centrum
+WK193002	Schiekamp
+WK193003	Hoogwerf
+WK193004	Vierambachten
+WK193005	De Hoek
+WK193006	Gildenwijk
+WK193007	Groenewoud
+WK193008	Sterrenkwartier
+WK193009	Schenkel
+WK193010	De Elementen
+WK193011	Vogelenzang
+WK193012	De Akkers
+WK193013	Vriesland
+WK193014	Waterland
+WK193015	Maaswijk
+WK193016	Halfweg
+WK193017	Buitengebied
+WK193025	Heenvliet
+WK193027	Geervliet
+WK193029	Abbenbroek
+WK193031	Zuidland
+WK193033	Simonshaven
+WK193050	Hekelingen
+WK193099	Groot water
+WK193100	Wijk 00 Lekkerkerk
+WK193101	Wijk 01 Krimpen aan de Lek
+WK193102	Wijk 02 Ouderkerk aan den IJssel
+WK193103	Wijk 03 Gouderak
+WK193104	Wijk 04 Bergambacht
+WK193105	Wijk 05 Bergstoep
+WK193106	Wijk 06 Ammerstol
+WK193107	Wijk 07 Berkenwoude
+WK193108	Wijk 08 Haastrecht
+WK193110	Wijk 10 Stolwijk
+WK193111	Wijk 11 Vlist
+WK193112	Wijk 12 Schoonhoven
+WK194001	Wijk 01 Akmarijp
+WK194002	Wijk 02 Bakhuizen
+WK194003	Wijk 03 Balk
+WK194004	Wijk 04 Bantega
+WK194005	Wijk 05 Boornzwaag
+WK194006	Wijk 06 Broek
+WK194007	Wijk 07 Delfstrahuizen
+WK194008	Wijk 08 Dijken
+WK194009	Wijk 09 Doniaga
+WK194010	Wijk 10 Echten
+WK194011	Wijk 11 Echtenerbrug
+WK194012	Wijk 12 Eesterga
+WK194013	Wijk 13 Elahuizen
+WK194014	Wijk 14 Follega
+WK194015	Wijk 15 Goingarijp
+WK194016	Wijk 16 Harich
+WK194017	Wijk 17 Haskerhorne
+WK194018	Wijk 18 Idskenhuizen
+WK194019	Wijk 19 Joure
+WK194020	Wijk 20 Kolderwolde
+WK194021	Wijk 21 Langweer
+WK194022	Wijk 22 Legemeer
+WK194023	Wijk 23 Lemmer
+WK194024	Wijk 24 Mirns
+WK194025	Wijk 25 Nijehaske
+WK194026	Wijk 26 Nijemirdum
+WK194027	Wijk 27 Oldeouwer
+WK194028	Wijk 28 Oosterzee
+WK194029	Wijk 29 Oudega
+WK194030	Wijk 30 Oudehaske
+WK194031	Wijk 31 Oudemirdum
+WK194032	Wijk 32 Ouwsterhaule
+WK194033	Wijk 33 Ouwster-Nijega
+WK194034	Wijk 34 Rijs
+WK194035	Wijk 35 Rohel
+WK194036	Wijk 36 Rotstergaast
+WK194037	Wijk 37 Rotsterhaule
+WK194038	Wijk 38 Rottum
+WK194039	Wijk 39 Ruigahuizen
+WK194040	Wijk 40 Scharsterbrug
+WK194041	Wijk 41 Sint Nicolaasga
+WK194042	Wijk 42 Sinjohannesga
+WK194043	Wijk 43 Sloten
+WK194044	Wijk 44 Snikzwaag
+WK194045	Wijk 45 Sondel
+WK194046	Wijk 46 Terherne
+WK194047	Wijk 47 Terkaple
+WK194048	Wijk 48 Teroele
+WK194049	Wijk 49 Tjerkgaast
+WK194050	Wijk 50 Vegelinsoord
+WK194051	Wijk 51 Wijckel
+WK194099	Groot water
+WK194200	Bussum Centrum
+WK194201	Brediuskwartier
+WK194202	Eng
+WK194203	Spiegel
+WK194204	Muiden
+WK194205	Naarden
+WK194299	Groot water
+WK194500	Beek
+WK194501	Berg en Dal
+WK194502	Breedeweg
+WK194503	De Horst
+WK194504	Erlecom
+WK194505	Groesbeek
+WK194506	Heilig Landstichting
+WK194507	Kekerdom
+WK194508	Leuth
+WK194509	Millingen aan de Rijn
+WK194510	Ooij
+WK194511	Persingen
+WK194512	Ubbergen
+WK194801	Erp
+WK194802	Schijndel
+WK194803	Sint-Oedenrode
+WK194804	Veghel
+WK194915	Achlum
+WK194916	St.-Annaparochie
+WK194917	Baaium
+WK194918	Berltsum
+WK194919	Bitgum
+WK194920	Bitgummole
+WK194921	Blessum
+WK194922	Boer
+WK194923	Boksum
+WK194924	Deinum
+WK194925	Dongjum
+WK194926	Dronryp
+WK194927	Firdgum
+WK194928	Franeker
+WK194929	Herbaijum
+WK194930	Hitzum
+WK194931	Ingelum
+WK194932	St.-Jacobiparochie
+WK194933	Klooster Lidlum
+WK194934	Marsum
+WK194935	Menaam
+WK194936	Minnertsga
+WK194937	Nij Altoenae
+WK194938	Oosterbierum
+WK194939	Oudebildtzijl
+WK194940	Peins
+WK194941	Pietersbierum
+WK194942	Ried
+WK194943	Schalsum
+WK194944	Sexbierum
+WK194945	Skingen
+WK194946	Slappeterp
+WK194947	Spannum
+WK194948	Tzum
+WK194949	Tzummarum
+WK194950	Vrouwenparochie
+WK194951	Westhoek
+WK194952	Wier
+WK194953	Winsum
+WK194954	Wjelsryp
+WK194955	Zweins
+WK194999	Groot water
+WK195000	Wijk 00 Bellingwolde
+WK195001	Wijk 01 Oost
+WK195002	Wijk 02 Blijham
+WK195003	Wijk 03 Sellingen
+WK195004	Wijk 04 Vlagtwedde
+WK195005	Wijk 05 Bourtange
+WK195006	Wijk 06 Sellingerbeetse
+WK195007	Wijk 07 Ter Apel
+WK195008	Wijk 08 Ter Wisch
+WK195009	Wijk 09 de Maten
+WK195201	Foxham en Hoogezand-Noord
+WK195202	Hoogezand-Zuid
+WK195203	Kalkwijk
+WK195204	Sappemeer
+WK195205	Kiel-Windeweer
+WK195206	Kropswolde
+WK195207	Foxhol
+WK195208	Westerbroek en Waterhuizen
+WK195209	Harkstede, Scharmer en Woudbloem
+WK195210	Kolham
+WK195211	Froombosch
+WK195212	Slochteren
+WK195213	Schildwolde
+WK195214	Hellum
+WK195215	Siddeburen
+WK195216	Eemskanaal-Zuid
+WK195217	Tjuchem en Steendam
+WK195218	Muntendam
+WK195219	Noordbroek
+WK195220	Zuidbroek
+WK195221	Meeden
+WK195400	Wijk 00 Onderbanken
+WK195401	Wijk 01 Nuth
+WK195402	Wijk 02 Wijnandsrade
+WK195403	Wijk 03 Hulsberg
+WK195404	Wijk 04 Schimmert
+WK195405	Wijk 05
+WK195406	Wijk 06 Amstenrade - Oirsbeek
+WK195500	Wijk 00 's-Heerenberg
+WK195501	Wijk 01 Brakel
+WK195502	Wijk 02 Didam
+WK195901	Werkendam
+WK195902	Sleeuwijk
+WK195903	Nieuwendijk
+WK195904	Hank
+WK195905	Dussen
+WK195906	Woudrichem
+WK195907	Rijswijk (NB)
+WK195908	Uitwijk
+WK195909	Waardhuizen
+WK195910	Giessen
+WK195911	Andel
+WK195912	Almkerk
+WK195913	Veen
+WK195914	Wijk en Aalburg
+WK195915	Babyloniënbroek
+WK195916	Meeuwen
+WK195917	Eethen
+WK195918	Drongelen
+WK195919	Genderen
+WK196000	Geldermalsen
+WK196001	Deil
+WK196002	Beesd
+WK196003	Buurmalsen
+WK196004	Meteren
+WK196005	Haaften
+WK196006	Waardenburg en Opijnen
+WK196007	Varik en Ophemert
+WK196008	Asperen
+WK196009	Heukelum
+WK196010	Vuren
+WK196011	Herwijnen
+WK196101	Tienhoven aan de Lek
+WK196102	Tienhoven aan de Lek buitengebied
+WK196103	Ameide
+WK196104	Ameide buitengebied
+WK196105	Meerkerk
+WK196106	Meerkerk buitengebied
+WK196107	Lexmond
+WK196108	Lexmond buitengebied
+WK196109	Nieuwland
+WK196110	Nieuwland buitengebied
+WK196111	Leerbroek
+WK196112	Leerbroek buitengebied
+WK196113	Kedichem
+WK196114	Kedichem buitengebied
+WK196115	Hei- en Boeicop
+WK196116	Hei- en Boeicop buitengebied
+WK196117	Oosterwijk
+WK196118	Amaliastein
+WK196119	Monnikenhof
+WK196120	Vianen bedrijventerrein
+WK196121	Vianen centrum
+WK196122	De Hagen
+WK196123	Vianen buitengebied
+WK196124	Leerdam-West
+WK196125	Leerdam-Noord
+WK196126	Leerdam centrum
+WK196127	Leerdam-Oost
+WK196128	Nieuw Schaik
+WK196129	Leerdam buitengebied
+WK196130	Schoonrewoerd
+WK196131	Schoonrewoerd buitengebied
+WK196132	Zijderveld
+WK196133	Zijderveld buitengebied
+WK196134	Hagestein
+WK196135	Hagestein buitengebied
+WK196136	Hoef en Haag
+WK196137	Everdingen
+WK196138	Everdingen buitengebied
+WK196139	Ossenwaard
+WK196300	Oud-Beijerland
+WK196301	Heinenoord
+WK196302	Mijnsheerenland
+WK196303	Westmaas
+WK196304	Puttershoek
+WK196305	Maasdam
+WK196306	's-Gravendeel
+WK196307	Strijen
+WK196308	Klaaswaal
+WK196309	Numansdorp
+WK196310	Zuid-Beijerland
+WK196311	Goudswaard
+WK196312	Piershil
+WK196313	Nieuw-Beijerland
+WK196399	Groot water
+WK196601	Ulrum
+WK196602	Leens
+WK196603	Kloosterburen
+WK196604	Oude Land
+WK196605	Sauwerd
+WK196606	Winsum
+WK196607	Baflo
+WK196608	Bedum
+WK196609	Warffum
+WK196610	Kantens
+WK196611	Usquert
+WK196612	Uithuizen
+WK196613	Uithuizermeeden
+WK196614	Eemshavengebied
+WK196699	Groot water
+WK196900	Wijk 00 Grootegast
+WK196901	Wijk 01 Lutjegast
+WK196902	Wijk 02 Opende
+WK196903	Wijk 03 Oldekerk
+WK196904	Wijk 04 Leek
+WK196905	Wijk 05 Zevenhuizen
+WK196906	Wijk 06 Tolbert
+WK196907	Wijk 07 Midwolde
+WK196908	Wijk 08 Lettelbert
+WK196909	Wijk 09 Oostwold
+WK196910	Wijk 10 Enumatil
+WK196911	Wijk 11 Marum
+WK196912	Wijk 12 De Wilp
+WK196913	Wijk 13
+WK196914	Wijk 14
+WK196915	Wijk 15
+WK196916	Wijk 16
+WK196917	Wijk 17
+WK196999	Groot water
+WK197000	Dokkum
+WK197001	Metslawier
+WK197002	Ee - Zuidoost
+WK197003	Anjum - Noordoost
+WK197004	Oosternijkerk - Noordwest
+WK197005	Ternaard
+WK197006	Holwerd
+WK197007	Hantum
+WK197008	Wijk 08 Bouwstreek
+WK197009	Wijk 09 Zuidwest
+WK197010	Wijk 10
+WK197011	Wijk 11 Kollum
+WK197012	Wijk 12 Oost
+WK197013	Wijk 13 Noordwest
+WK197014	Wijk 14 Zuidwest
+WK197099	Groot water
+WK197801	Wijk01-Arkel
+WK197802	Wijk02-Bleskensgraaf ca
+WK197803	Wijk03-Brandwijk
+WK197804	Wijk04-Giessenburg
+WK197805	Wijk05-Goudriaan
+WK197806	Wijk06-Groot-Ammers
+WK197807	Wijk07-Hoogblokland
+WK197808	Wijk08-Hoornaar
+WK197809	Wijk09-Kinderdijk
+WK197810	Wijk10-Langerak
+WK197811	Wijk11-Molenaarsgraaf
+WK197812	Wijk12-Nieuw-Lekkerland
+WK197813	Wijk13-Nieuwpoort
+WK197814	Wijk14-Noordeloos
+WK197815	Wijk15-Ottoland
+WK197816	Wijk16-Oud-Alblas
+WK197817	Wijk17-Schelluinen
+WK197818	Wijk18-Streefkerk
+WK197819	Wijk19-Waal
+WK197820	Wijk20-Wijngaarden
+WK197901	Delfzijl-Centrum
+WK197902	West
+WK197903	Farmsum
+WK197904	Tuikwerd
+WK197905	Fivelzigt
+WK197906	Noord
+WK197907	Buitengebied Noord-Bierum
+WK197908	Oosterhorn
+WK197909	Buitengebied Zuid-Termunten
+WK197910	Tussengebied
+WK197911	Appingedam-Centrum
+WK197912	Appingedam-Oost
+WK197913	Appingedam-West
+WK197914	Buitengebied Noord-Appingedam
+WK197915	Buitengebied Zuid-Appingedam
+WK197916	Buitengebied Noord-Loppersum
+WK197917	Buitengebied Noord-Stedum
+WK197918	Buitengebied Noord-Middelstum
+WK197919	Buitengebied Noord-'t Zandt
+WK197999	Groot water
+WK198001	Oudkarspel
+WK198002	Noord-Scharwoude
+WK198003	Zuid-Scharwoude
+WK198004	Broek op Langedijk
+WK198005	Sint-Pancras
+WK198006	Koedijk
+WK198010	Schrijverswijk
+WK198011	Schilderswijk
+WK198012	Planetenwijk
+WK198013	Bomen- Recreatiewijk
+WK198014	Heemradenwijk
+WK198015	Edelstenenwijk
+WK198016	Molenwijk
+WK198017	Rivierenwijk
+WK198018	Stadshart
+WK198019	Broekhorn
+WK198020	Bedrijventerrein Heerhugowaard
+WK198021	Butterhuizen
+WK198022	Oostertocht
+WK198023	Zuidwijk
+WK198024	Huygenhoek
+WK198025	Stad van de Zon
+WK198026	De Draai
+WK198027	De Noord
+WK198028	t Kruis
+WK198201	Velp
+WK198202	Grave
+WK198203	Escharen
+WK198204	Gassel
+WK198205	Linden
+WK198206	Katwijk
+WK198207	Beers
+WK198208	Cuijk
+WK198209	Langenboom
+WK198210	Mill
+WK198211	Vianen
+WK198212	Sint Agatha
+WK198213	Haps
+WK198214	Oeffelt
+WK198215	Sint Hubert
+WK198216	Wilbertoord
+WK198217	Wanroij
+WK198218	Rijkevoort
+WK198219	Beugen
+WK198220	Landhorst
+WK198221	Ledeacker
+WK198222	Boxmeer
+WK198223	Sint Anthonis
+WK198224	Sambeek
+WK198225	Oploo
+WK198226	Stevensbeek
+WK198227	Vortum-Mullem
+WK198228	Groeningen
+WK198229	Westerbeek
+WK198230	Overloon
+WK198231	Vierlingsbeek
+WK198232	Holthees
+WK198233	Maashees
+WK199101	Uden
+WK199102	Volkel
+WK199103	Odiliapeel
+WK199104	Schaijk
+WK199105	Reek
+WK199106	Zeeland
+WK199200	Hellevoet
+WK199201	Nieuw-Helvoet
+WK199202	Nieuwenhoorn
+WK199203	De Struyten
+WK199204	De Kooistee
+WK199205	Den Bonsen Hoek
+WK199206	Ravense Hoek
+WK199207	Centrumgebied
+WK199208	Kickers Bloem
+WK199209	Buitengebied
+WK199210	Oudenhoorn
+WK199220	Rockanje
+WK199221	Oostvoorne
+WK199230	Brielle
+WK199231	Vierpolders
+WK199232	Zwartewaal
+WK199233	Recreatiestrook Brielse Maas
+WK199299	Groot water

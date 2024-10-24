@@ -1,0 +1,8 @@
+5 september 2023
+
+Op aanvraag van Dienst DUO van het Ministerie van OCW heeft het CBS een koppeltabel gemaakt tussen alle uitgegeven postcode-huisnummer-combinaties op 1 augustus 2023 in de BAG, 
+en de buurten, wijken en gemeenten per 1 januari 2023.
+Zie https://www.cbs.nl/nl-nl/maatwerk/2023/35/buurt-wijk-en-gemeente-2023-voor-postcode-huisnummer voor de oorspronkelijke publicatie. 
+
+Omdat het CBS vaak vragen krijgt van gebruikers voor een lijst van postcodes in bepaalde gemeenten, wijken of buurten, 
+is de oorspronkelijke koppeltabel bewerkt tot bijgevoegde tabel met daarin de gemeente-, wijk- en buurtcodes per postcode-6.
