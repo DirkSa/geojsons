@@ -1,0 +1,119 @@
+import requests
+import pandas as pd
+import time
+import os
+
+# Bestanden
+input_file = "vestigingen.csv"  # CSV met kvknummer en vestigingsnummer
+sbi_output_file = "sbi_output.csv"
+agb_output_file = "agb_output.csv"
+batch_file = "last_batch.txt"
+
+batch_size = 100  # Aantal vestigingen per batch
+
+# Inlezen CSV als tekstvelden
+df = pd.read_csv(input_file, dtype=str)
+
+# Controleer of verplichte kolommen aanwezig zijn
+if "kvknummer" not in df.columns or "vestigingsnummer" not in df.columns:
+    raise ValueError("CSV-bestand moet de kolommen 'kvknummer' en 'vestigingsnummer' bevatten.")
+
+total_records = len(df)  # Totaal aantal vestigingen
+
+# Bepaal waar het script moet hervatten
+if os.path.exists(batch_file):
+    with open(batch_file, "r") as f:
+        last_batch = int(f.read().strip())  # Laatste batchnummer ophalen
+else:
+    last_batch = 0  # Start vanaf het begin
+
+# API-aanroep instellen
+base_url = "https://zoeken.zorgaanbiedersportaal.nl/api/vestiging/"
+headers = {
+    'Accept': 'application/json, text/plain, */*',
+    'Accept-Language': 'nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7',
+    'Connection': 'keep-alive',
+    'DNT': '1',
+    'Sec-Fetch-Dest': 'empty',
+    'Sec-Fetch-Mode': 'cors',
+    'Sec-Fetch-Site': 'same-origin',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36',
+    'sec-ch-ua': '"Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"'
+}
+
+# Loop door batches van 100 vestigingen
+for batch_start in range(last_batch * batch_size, total_records, batch_size):
+    batch_end = min(batch_start + batch_size, total_records)  # Zorg dat we niet buiten de dataset gaan
+    batch_number = batch_start // batch_size + 1  # Huidig batchnummer
+    
+    sbi_results = []
+    agb_results = []
+    
+    for record_index, (index, row) in enumerate(df.iloc[batch_start:batch_end].iterrows(), start=1):
+        kvknummer = str(row["kvknummer"]).strip()
+        vestigingsnummer = str(row["vestigingsnummer"]).strip()
+        
+        url = f"{base_url}{kvknummer}/{vestigingsnummer}"
+        start_time = time.time()  # Starttijd meten
+        
+        try:
+            response = requests.get(url, headers=headers, timeout=20)
+
+
+            if response.status_code == 429:
+                print(f"🚨 429 Too Many Requests - API-limiet bereikt. Script wordt gestopt.")
+                exit(1)  # Beëindig het script direct
+                
+            response.raise_for_status()
+            duration = time.time() - start_time  # Duur van de API-call
+            
+            data = response.json()
+            sbicodes = data.get("sbicodes", [])
+            agbregistraties = data.get("agbregistraties", [])
+            
+            # Voeg SBI-codes toe
+            for sbi in sbicodes:
+                sbi_results.append({
+                    "kvknummer": kvknummer,
+                    "vestigingsnummer": vestigingsnummer,
+                    "sbicode": sbi
+                })
+            
+            # Voeg AGB-codes toe
+            for agb in agbregistraties:
+                agb_results.append({
+                    "kvknummer": kvknummer,
+                    "vestigingsnummer": vestigingsnummer,
+                    "agbregistratie": agb
+                })
+
+            print(f"[Batch {batch_number}, Record {record_index}/100] Succes: {kvknummer} - {vestigingsnummer} (Duur: {round(duration, 3)}s)")
+        
+        except requests.exceptions.RequestException as e:
+            duration = time.time() - start_time
+            print(f"[Batch {batch_number}, Record {record_index}/100] Fout bij {kvknummer} - {vestigingsnummer}: {e} (Duur: {round(duration, 3)}s)")
+        
+        time.sleep(12)
+    
+       
+    
+    # Opslaan van batchresultaten
+    sbi_df = pd.DataFrame(sbi_results)
+    agb_df = pd.DataFrame(agb_results)
+    
+    # Append resultaten naar de output-bestanden
+    if not sbi_df.empty:
+        sbi_df.to_csv(sbi_output_file, mode='a', header=not os.path.exists(sbi_output_file), index=False)
+    
+    if not agb_df.empty:
+        agb_df.to_csv(agb_output_file, mode='a', header=not os.path.exists(agb_output_file), index=False)
+    
+    # Sla het batchnummer op
+    with open(batch_file, "w") as f:
+        f.write(str(batch_number))
+    
+    print(f"Batch {batch_number} opgeslagen ({batch_start + 1} t/m {batch_end}).")
+
+print("✅ Alle batches verwerkt!")
